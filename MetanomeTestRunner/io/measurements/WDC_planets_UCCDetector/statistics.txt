@@ -1,0 +1,9 @@
+de.metanome.algorithms.uccdetector.UCCDetector
+
+Config:
+	algorithm: UCCDETECTOR
+	dataset: WDC_planets.csv
+
+Runtime: 10
+
+Results: 1
