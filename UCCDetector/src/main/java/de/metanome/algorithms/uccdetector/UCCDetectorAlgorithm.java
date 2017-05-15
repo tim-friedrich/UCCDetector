@@ -3,6 +3,7 @@ package de.metanome.algorithms.uccdetector;
 import java.util.ArrayList;
 import java.util.Collection;
 import java.util.HashMap;
+import java.util.Iterator;
 import java.util.List;
 import java.util.Map;
 import java.util.Random;
@@ -31,6 +32,7 @@ public class UCCDetectorAlgorithm {
 	protected String relationName;
 	protected List<String> columnNames;
 	protected List<List<String>> records;
+	List<UniqueColumnCombination> results;
 	protected String someStringParameter;
 	protected Integer someIntegerParameter;
 	private Integer depth = 0;
@@ -38,21 +40,15 @@ public class UCCDetectorAlgorithm {
 	
 	public void execute() throws AlgorithmExecutionException {
 		
-		////////////////////////////////////////////
-		// THE DISCOVERY ALGORITHM LIVES HERE :-) //
-		////////////////////////////////////////////
-		// Example: Initialize
 		this.initialize();
-		// Example: Read input data
+
 		this.records = this.readInput();
-		// Example: Print what the algorithm read (to test that everything works)
+
 		this.print(records);
-		// Example: Generate some results (usually, the algorithm should really calculate them on the data)
-		List<UniqueColumnCombination> results = this.generateResults();
+
+		this.generateResults();
 		
-		// Example: To test if the algorithm outputs results
 		this.emit(results);
-		/////////////////////////////////////////////
 		
 	}
 	
@@ -71,11 +67,6 @@ public class UCCDetectorAlgorithm {
 	}
 	
 	protected void print(List<List<String>> records) {
-		// Print parameter
-		System.out.println("Some String: " + this.someStringParameter);
-		System.out.println("Some Integer: " + this.someIntegerParameter);
-		System.out.println("Some Boolean: " + this.someBooleanParameter);
-		System.out.println();
 		
 		// Print schema
 		System.out.print(this.relationName + "( ");
@@ -92,8 +83,9 @@ public class UCCDetectorAlgorithm {
 		}
 	}
 	
+	// generates results
 	protected List<UniqueColumnCombination> generateResults() {
-		List<UniqueColumnCombination> results = new ArrayList<>();
+		this.results = new ArrayList<>();
 		List<ColumnCombination> columnCombinations = null;
 		while(true){
 			columnCombinations = getNextColumnCombination(columnCombinations);
@@ -102,11 +94,8 @@ public class UCCDetectorAlgorithm {
 			}
 			for(ColumnCombination columnComb : columnCombinations){
 				if(checkUniquinessFor(columnComb)){
-					System.out.println("Column is unique");
 					UniqueColumnCombination ucc = new UniqueColumnCombination(columnComb);
-					results.add(ucc);
-				} else{
-					System.out.println("Column is not unique");
+					this.results.add(ucc);
 				}
 			}
 			
@@ -115,13 +104,24 @@ public class UCCDetectorAlgorithm {
 		
 	}
 	
+	// TODO implement PLIs??
 	private boolean checkUniquinessFor(ColumnCombination colComb){
 		Set<ColumnIdentifier> identifiers = colComb.getColumnIdentifiers();
 		Map<String, Integer> resultMap = new HashMap<String, Integer>();
 		for(List<String> record : this.records){
 			String key = "";
+			boolean interrupt = false;
 			for(ColumnIdentifier identifier : identifiers){
-				key += record.get(this.columnNames.indexOf(identifier.getColumnIdentifier()));
+				String value = record.get(this.columnNames.indexOf(identifier.getColumnIdentifier()));
+				if(value == "" || value == null){
+					interrupt = true;
+					break;
+				}
+				key += value;
+			}
+			// just continue if a value was none since there is no chance of getting a duplicate
+			if(interrupt){
+				continue;
 			}
 			if(resultMap.containsKey(key)){
 				return false;
@@ -131,44 +131,83 @@ public class UCCDetectorAlgorithm {
 		return true;
 	}
 	
+	// returns the next column combinations that needs to be checked
 	private List<ColumnCombination> getNextColumnCombination(List<ColumnCombination> previousCombinations){
 		List<ColumnCombination> combinations = new ArrayList<ColumnCombination>();
+		
+		// generate inital combinations { a, b, c, ...}
 		if(previousCombinations == null){
 			for(String columnName : this.columnNames){
 				combinations.add(new ColumnCombination(new ColumnIdentifier(this.relationName, columnName)));
 			}
-		} else{
-			
 		}
 		
+		// generate all combinations for the second run
 		if(depth==1){
 			for(int i=0; i<this.columnNames.size();i++){
 				for(int j=i+1; j<this.columnNames.size();j++){
-					combinations.add(new ColumnCombination(new ColumnIdentifier(this.relationName, this.columnNames.get(i)), new ColumnIdentifier(this.relationName, this.columnNames.get(j))));
+					ColumnCombination comb = new ColumnCombination(new ColumnIdentifier(this.relationName, this.columnNames.get(i)), new ColumnIdentifier(this.relationName, this.columnNames.get(j)));
+					if(notProne(comb)){
+						combinations.add(comb);
+					}
 				}
 			}
 		}
-		if(depth>2){
+		
+		// use prefixes for all the other depths
+		if(depth>1){
 			for(int i=0; i<previousCombinations.size(); i++){
-				for(int j=i; j<previousCombinations.size()-1; j++){
+				for(int j=i+1; j<previousCombinations.size()-1; j++){
+					// only generate the column combination if the two candidates have the same prefix
 					if(samePrefix(previousCombinations.get(i), previousCombinations.get(j))){
 						Set<ColumnIdentifier> identifiers = previousCombinations.get(i).getColumnIdentifiers();
 						identifiers.addAll(previousCombinations.get(j).getColumnIdentifiers());
 						ColumnCombination comb = new ColumnCombination();
 						comb.setColumnIdentifiers(identifiers);
-						combinations.add(comb);
+						// only add the combination if it is not proned
+						if(notProne(comb)){
+							combinations.add(comb);
+						}
 					}
-					previousCombinations.get(i);
 				}
 			}
 		}
-		
+		//System.out.println("processing depth: "+depth+" with: "+combinations.size());
 		depth++;
 		return combinations;
 	}
 	
+	// prones single Column Combinations. proning is done just in place to increase the performance
+	// returns false if a found ucc is a subset of the given column combination
+	private boolean notProne(ColumnCombination comb){
+		for(UniqueColumnCombination ucc : this.results){
+			Iterator<ColumnIdentifier> uccIterator = ucc.getColumnCombination().getColumnIdentifiers().iterator();
+			while(uccIterator.hasNext()){
+				ColumnIdentifier uccIdentifier = uccIterator.next();
+				if(comb.getColumnIdentifiers().contains(uccIdentifier)){
+					return false;
+				}
+			}
+		}
+		return true;
+	}
+	
+	// checks if the columns have the same prefix
 	private boolean samePrefix(ColumnCombination comb1, ColumnCombination comb2){
-		return comb1.compareTo(comb2) == 1;
+		Iterator<ColumnIdentifier> comb1Iterator = comb1.getColumnIdentifiers().iterator();
+		Iterator<ColumnIdentifier> comb2Iterator = comb2.getColumnIdentifiers().iterator();
+		int i = 0;
+		boolean result = true;
+		// check for same prefix until depth size
+		while(comb1Iterator.hasNext() && comb2Iterator.hasNext() && i <= depth){
+			ColumnIdentifier identifier1 = comb1Iterator.next();
+			ColumnIdentifier identifier2 = comb1Iterator.next();
+			if(identifier1 != identifier2){
+				result = false;
+			}
+			i++;
+		}
+		return result;
 	}
 	
 	protected void emit(List<UniqueColumnCombination> results) throws CouldNotReceiveResultException, ColumnNameMismatchException {
