@@ -35,9 +35,6 @@ public class MetanomeMock {
 			
 			UCCDetector algorithm = new UCCDetector();
 			algorithm.setRelationalInputConfigurationValue(UCCDetector.Identifier.INPUT_GENERATOR.name(), inputGenerator);
-			algorithm.setStringConfigurationValue(UCCDetector.Identifier.SOME_STRING_PARAMETER.name(), conf.someStringParameter);
-			algorithm.setIntegerConfigurationValue(UCCDetector.Identifier.SOME_INTEGER_PARAMETER.name(), conf.someIntegerParameter);
-			algorithm.setBooleanConfigurationValue(UCCDetector.Identifier.SOME_BOOLEAN_PARAMETER.name(), conf.someBooleanParameter);
 			algorithm.setResultReceiver(resultReceiver);
 			
 			long runtime = System.currentTimeMillis();

@@ -104,7 +104,6 @@ public class UCCDetectorAlgorithm {
 		
 	}
 	
-	// TODO implement PLIs??
 	private boolean checkUniquinessFor(ColumnCombination colComb){
 		Set<ColumnIdentifier> identifiers = colComb.getColumnIdentifiers();
 		Map<String, Integer> resultMap = new HashMap<String, Integer>();
@@ -126,7 +125,7 @@ public class UCCDetectorAlgorithm {
 			if(resultMap.containsKey(key)){
 				return false;
 			}
-			resultMap.put(key, 1);
+			resultMap.put(key, null);
 		}
 		return true;
 	}
@@ -182,11 +181,8 @@ public class UCCDetectorAlgorithm {
 	private boolean notProne(ColumnCombination comb){
 		for(UniqueColumnCombination ucc : this.results){
 			Iterator<ColumnIdentifier> uccIterator = ucc.getColumnCombination().getColumnIdentifiers().iterator();
-			while(uccIterator.hasNext()){
-				ColumnIdentifier uccIdentifier = uccIterator.next();
-				if(comb.getColumnIdentifiers().contains(uccIdentifier)){
-					return false;
-				}
+			if(comb.getColumnIdentifiers().containsAll(ucc.getColumnCombination().getColumnIdentifiers())){
+				return false;
 			}
 		}
 		return true;
