@@ -1,0 +1,71 @@
+[WDC_game.csv.Sit &amp; Go Buy-in]->WDC_game.csv.Division Name
+[WDC_game.csv.Sit &amp; Go Buy-in]->WDC_game.csv.Low Orbit Leader Board Prize Pool
+[WDC_game.csv.Sit &amp; Go Buy-in]->WDC_game.csv.High Orbit Leader Board Prize Pool
+[WDC_game.csv.Sit &amp; Go Buy-in]->WDC_game.csv.Total Division Prize Pool
+[WDC_game.csv.Division Name]->WDC_game.csv.Sit &amp; Go Buy-in
+[WDC_game.csv.Division Name]->WDC_game.csv.Low Orbit Leader Board Prize Pool
+[WDC_game.csv.Division Name]->WDC_game.csv.High Orbit Leader Board Prize Pool
+[WDC_game.csv.Division Name]->WDC_game.csv.Total Division Prize Pool
+[WDC_game.csv.Low Orbit Leader Board Prize Pool]->WDC_game.csv.Sit &amp; Go Buy-in
+[WDC_game.csv.Low Orbit Leader Board Prize Pool]->WDC_game.csv.Division Name
+[WDC_game.csv.Low Orbit Leader Board Prize Pool]->WDC_game.csv.High Orbit Leader Board Prize Pool
+[WDC_game.csv.Low Orbit Leader Board Prize Pool]->WDC_game.csv.Total Division Prize Pool
+[WDC_game.csv.High Orbit Leader Board Prize Pool]->WDC_game.csv.Sit &amp; Go Buy-in
+[WDC_game.csv.High Orbit Leader Board Prize Pool]->WDC_game.csv.Division Name
+[WDC_game.csv.High Orbit Leader Board Prize Pool]->WDC_game.csv.Low Orbit Leader Board Prize Pool
+[WDC_game.csv.High Orbit Leader Board Prize Pool]->WDC_game.csv.Total Division Prize Pool
+[WDC_game.csv.Total Division Prize Pool]->WDC_game.csv.Sit &amp; Go Buy-in
+[WDC_game.csv.Total Division Prize Pool]->WDC_game.csv.Division Name
+[WDC_game.csv.Total Division Prize Pool]->WDC_game.csv.Low Orbit Leader Board Prize Pool
+[WDC_game.csv.Total Division Prize Pool]->WDC_game.csv.High Orbit Leader Board Prize Pool
+[WDC_game.csv.Division Name, WDC_game.csv.Sit &amp; Go Buy-in]->WDC_game.csv.Low Orbit Leader Board Prize Pool
+[WDC_game.csv.Division Name, WDC_game.csv.Sit &amp; Go Buy-in]->WDC_game.csv.High Orbit Leader Board Prize Pool
+[WDC_game.csv.Division Name, WDC_game.csv.Sit &amp; Go Buy-in]->WDC_game.csv.Total Division Prize Pool
+[WDC_game.csv.Low Orbit Leader Board Prize Pool, WDC_game.csv.Sit &amp; Go Buy-in]->WDC_game.csv.Division Name
+[WDC_game.csv.Low Orbit Leader Board Prize Pool, WDC_game.csv.Sit &amp; Go Buy-in]->WDC_game.csv.High Orbit Leader Board Prize Pool
+[WDC_game.csv.Low Orbit Leader Board Prize Pool, WDC_game.csv.Sit &amp; Go Buy-in]->WDC_game.csv.Total Division Prize Pool
+[WDC_game.csv.High Orbit Leader Board Prize Pool, WDC_game.csv.Sit &amp; Go Buy-in]->WDC_game.csv.Division Name
+[WDC_game.csv.High Orbit Leader Board Prize Pool, WDC_game.csv.Sit &amp; Go Buy-in]->WDC_game.csv.Low Orbit Leader Board Prize Pool
+[WDC_game.csv.High Orbit Leader Board Prize Pool, WDC_game.csv.Sit &amp; Go Buy-in]->WDC_game.csv.Total Division Prize Pool
+[WDC_game.csv.Sit &amp; Go Buy-in, WDC_game.csv.Total Division Prize Pool]->WDC_game.csv.Division Name
+[WDC_game.csv.Sit &amp; Go Buy-in, WDC_game.csv.Total Division Prize Pool]->WDC_game.csv.Low Orbit Leader Board Prize Pool
+[WDC_game.csv.Sit &amp; Go Buy-in, WDC_game.csv.Total Division Prize Pool]->WDC_game.csv.High Orbit Leader Board Prize Pool
+[WDC_game.csv.Division Name, WDC_game.csv.Low Orbit Leader Board Prize Pool]->WDC_game.csv.Sit &amp; Go Buy-in
+[WDC_game.csv.Division Name, WDC_game.csv.Low Orbit Leader Board Prize Pool]->WDC_game.csv.High Orbit Leader Board Prize Pool
+[WDC_game.csv.Division Name, WDC_game.csv.Low Orbit Leader Board Prize Pool]->WDC_game.csv.Total Division Prize Pool
+[WDC_game.csv.Division Name, WDC_game.csv.High Orbit Leader Board Prize Pool]->WDC_game.csv.Sit &amp; Go Buy-in
+[WDC_game.csv.Division Name, WDC_game.csv.High Orbit Leader Board Prize Pool]->WDC_game.csv.Low Orbit Leader Board Prize Pool
+[WDC_game.csv.Division Name, WDC_game.csv.High Orbit Leader Board Prize Pool]->WDC_game.csv.Total Division Prize Pool
+[WDC_game.csv.Division Name, WDC_game.csv.Total Division Prize Pool]->WDC_game.csv.Sit &amp; Go Buy-in
+[WDC_game.csv.Division Name, WDC_game.csv.Total Division Prize Pool]->WDC_game.csv.Low Orbit Leader Board Prize Pool
+[WDC_game.csv.Division Name, WDC_game.csv.Total Division Prize Pool]->WDC_game.csv.High Orbit Leader Board Prize Pool
+[WDC_game.csv.High Orbit Leader Board Prize Pool, WDC_game.csv.Low Orbit Leader Board Prize Pool]->WDC_game.csv.Sit &amp; Go Buy-in
+[WDC_game.csv.High Orbit Leader Board Prize Pool, WDC_game.csv.Low Orbit Leader Board Prize Pool]->WDC_game.csv.Division Name
+[WDC_game.csv.High Orbit Leader Board Prize Pool, WDC_game.csv.Low Orbit Leader Board Prize Pool]->WDC_game.csv.Total Division Prize Pool
+[WDC_game.csv.Low Orbit Leader Board Prize Pool, WDC_game.csv.Total Division Prize Pool]->WDC_game.csv.Sit &amp; Go Buy-in
+[WDC_game.csv.Low Orbit Leader Board Prize Pool, WDC_game.csv.Total Division Prize Pool]->WDC_game.csv.Division Name
+[WDC_game.csv.Low Orbit Leader Board Prize Pool, WDC_game.csv.Total Division Prize Pool]->WDC_game.csv.High Orbit Leader Board Prize Pool
+[WDC_game.csv.High Orbit Leader Board Prize Pool, WDC_game.csv.Total Division Prize Pool]->WDC_game.csv.Sit &amp; Go Buy-in
+[WDC_game.csv.High Orbit Leader Board Prize Pool, WDC_game.csv.Total Division Prize Pool]->WDC_game.csv.Division Name
+[WDC_game.csv.High Orbit Leader Board Prize Pool, WDC_game.csv.Total Division Prize Pool]->WDC_game.csv.Low Orbit Leader Board Prize Pool
+[WDC_game.csv.Division Name, WDC_game.csv.Low Orbit Leader Board Prize Pool, WDC_game.csv.Sit &amp; Go Buy-in]->WDC_game.csv.High Orbit Leader Board Prize Pool
+[WDC_game.csv.Division Name, WDC_game.csv.Low Orbit Leader Board Prize Pool, WDC_game.csv.Sit &amp; Go Buy-in]->WDC_game.csv.Total Division Prize Pool
+[WDC_game.csv.Division Name, WDC_game.csv.Low Orbit Leader Board Prize Pool, WDC_game.csv.Sit &amp; Go Buy-in]->WDC_game.csv.High Orbit Leader Board Prize Pool
+[WDC_game.csv.Division Name, WDC_game.csv.Low Orbit Leader Board Prize Pool, WDC_game.csv.Sit &amp; Go Buy-in]->WDC_game.csv.Total Division Prize Pool
+[WDC_game.csv.Division Name, WDC_game.csv.High Orbit Leader Board Prize Pool, WDC_game.csv.Sit &amp; Go Buy-in]->WDC_game.csv.Low Orbit Leader Board Prize Pool
+[WDC_game.csv.Division Name, WDC_game.csv.High Orbit Leader Board Prize Pool, WDC_game.csv.Sit &amp; Go Buy-in]->WDC_game.csv.Total Division Prize Pool
+[WDC_game.csv.Division Name, WDC_game.csv.High Orbit Leader Board Prize Pool, WDC_game.csv.Sit &amp; Go Buy-in]->WDC_game.csv.Low Orbit Leader Board Prize Pool
+[WDC_game.csv.Division Name, WDC_game.csv.High Orbit Leader Board Prize Pool, WDC_game.csv.Sit &amp; Go Buy-in]->WDC_game.csv.Total Division Prize Pool
+[WDC_game.csv.Division Name, WDC_game.csv.High Orbit Leader Board Prize Pool, WDC_game.csv.Sit &amp; Go Buy-in]->WDC_game.csv.Low Orbit Leader Board Prize Pool
+[WDC_game.csv.Division Name, WDC_game.csv.High Orbit Leader Board Prize Pool, WDC_game.csv.Sit &amp; Go Buy-in]->WDC_game.csv.Total Division Prize Pool
+[WDC_game.csv.Division Name, WDC_game.csv.Sit &amp; Go Buy-in, WDC_game.csv.Total Division Prize Pool]->WDC_game.csv.Low Orbit Leader Board Prize Pool
+[WDC_game.csv.Division Name, WDC_game.csv.Sit &amp; Go Buy-in, WDC_game.csv.Total Division Prize Pool]->WDC_game.csv.High Orbit Leader Board Prize Pool
+[WDC_game.csv.Low Orbit Leader Board Prize Pool, WDC_game.csv.Sit &amp; Go Buy-in]->WDC_game.csv.Division Name
+[WDC_game.csv.Low Orbit Leader Board Prize Pool, WDC_game.csv.Sit &amp; Go Buy-in]->WDC_game.csv.High Orbit Leader Board Prize Pool
+[WDC_game.csv.Low Orbit Leader Board Prize Pool, WDC_game.csv.Sit &amp; Go Buy-in]->WDC_game.csv.Total Division Prize Pool
+[WDC_game.csv.High Orbit Leader Board Prize Pool, WDC_game.csv.Low Orbit Leader Board Prize Pool, WDC_game.csv.Sit &amp; Go Buy-in]->WDC_game.csv.Division Name
+[WDC_game.csv.High Orbit Leader Board Prize Pool, WDC_game.csv.Low Orbit Leader Board Prize Pool, WDC_game.csv.Sit &amp; Go Buy-in]->WDC_game.csv.Total Division Prize Pool
+[WDC_game.csv.High Orbit Leader Board Prize Pool, WDC_game.csv.Low Orbit Leader Board Prize Pool, WDC_game.csv.Sit &amp; Go Buy-in]->WDC_game.csv.Division Name
+[WDC_game.csv.High Orbit Leader Board Prize Pool, WDC_game.csv.Low Orbit Leader Board Prize Pool, WDC_game.csv.Sit &amp; Go Buy-in]->WDC_game.csv.Total Division Prize Pool
+[WDC_game.csv.High Orbit Leader Board Prize Pool, WDC_game.csv.Sit &amp; Go Buy-in, WDC_game.csv.Total Division Prize Pool]->WDC_game.csv.Division Name
+[WDC_game.csv.High Orbit Leader Board Prize Pool, WDC_game.csv.Sit &amp; Go Buy-in, WDC_game.csv.Total Division Prize Pool]->WDC_game.csv.Low Orbit Leader Board Prize Pool

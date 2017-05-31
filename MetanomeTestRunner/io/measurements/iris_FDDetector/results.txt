@@ -1,0 +1,4 @@
+[iris.csv.column1, iris.csv.column2, iris.csv.column3]->iris.csv.column5
+[iris.csv.column1, iris.csv.column2, iris.csv.column4]->iris.csv.column5
+[iris.csv.column1, iris.csv.column3, iris.csv.column4]->iris.csv.column5
+[iris.csv.column2, iris.csv.column3, iris.csv.column4]->iris.csv.column5

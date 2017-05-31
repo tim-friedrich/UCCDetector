@@ -1,0 +1,9 @@
+de.metanome.algorithms.fddetector.FDDetector
+
+Config:
+	algorithm: FDDETECTOR
+	dataset: WDC_planets.csv
+
+Runtime: 21
+
+Results: 66

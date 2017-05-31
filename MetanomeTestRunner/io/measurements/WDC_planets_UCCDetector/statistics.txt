@@ -4,6 +4,6 @@ Config:
 	algorithm: UCCDETECTOR
 	dataset: WDC_planets.csv
 
-Runtime: 8
+Runtime: 9
 
-Results: 7
+Results: 9

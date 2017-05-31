@@ -5,3 +5,5 @@
 [WDC_planets.csv.Orbital_period]
 [WDC_planets.csv.Rotation_period]
 [WDC_planets.csv.Atmosphere, WDC_planets.csv.Confirmed_moons]
+[WDC_planets.csv.Atmosphere, WDC_planets.csv.Confirmed_moons, WDC_planets.csv.Rings, WDC_planets.csv.Type]
+[WDC_planets.csv.Atmosphere, WDC_planets.csv.Confirmed_moons, WDC_planets.csv.Rings, WDC_planets.csv.Type]

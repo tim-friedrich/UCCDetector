@@ -3,6 +3,8 @@
 	<name>MetanomeTestRunner</name>
 	<comment></comment>
 	<projects>
+		<project>FDDetector</project>
+		<project>UCCDetector</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>

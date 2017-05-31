@@ -1,0 +1,9 @@
+de.metanome.algorithms.fddetector.FDDetector
+
+Config:
+	algorithm: FDDETECTOR
+	dataset: WDC_game.csv
+
+Runtime: 15
+
+Results: 71

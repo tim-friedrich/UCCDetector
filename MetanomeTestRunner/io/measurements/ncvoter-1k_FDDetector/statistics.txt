@@ -1,0 +1,9 @@
+de.metanome.algorithms.fddetector.FDDetector
+
+Config:
+	algorithm: FDDETECTOR
+	dataset: ncvoter-1k.csv
+
+Runtime: 314
+
+Results: 59

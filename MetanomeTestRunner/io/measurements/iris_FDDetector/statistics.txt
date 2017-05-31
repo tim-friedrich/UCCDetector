@@ -1,0 +1,9 @@
+de.metanome.algorithms.fddetector.FDDetector
+
+Config:
+	algorithm: FDDETECTOR
+	dataset: iris.csv
+
+Runtime: 36
+
+Results: 4

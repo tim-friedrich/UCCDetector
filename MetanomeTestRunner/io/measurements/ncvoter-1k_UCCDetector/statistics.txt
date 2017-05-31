@@ -1,0 +1,9 @@
+de.metanome.algorithms.uccdetector.UCCDetector
+
+Config:
+	algorithm: UCCDETECTOR
+	dataset: ncvoter-1k.csv
+
+Runtime: 7515
+
+Results: 113

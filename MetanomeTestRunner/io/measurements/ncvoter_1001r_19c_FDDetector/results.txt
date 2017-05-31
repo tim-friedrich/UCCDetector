@@ -1,0 +1,775 @@
+[ncvoter_1001r_19c.csv.voter_id]->ncvoter_1001r_19c.csv.voter_reg_num
+[ncvoter_1001r_19c.csv.voter_id]->ncvoter_1001r_19c.csv.name_prefix
+[ncvoter_1001r_19c.csv.voter_id]->ncvoter_1001r_19c.csv.first_name
+[ncvoter_1001r_19c.csv.voter_id]->ncvoter_1001r_19c.csv.last_name
+[ncvoter_1001r_19c.csv.voter_id]->ncvoter_1001r_19c.csv.name_suffix
+[ncvoter_1001r_19c.csv.voter_id]->ncvoter_1001r_19c.csv.age
+[ncvoter_1001r_19c.csv.voter_id]->ncvoter_1001r_19c.csv.gender
+[ncvoter_1001r_19c.csv.voter_id]->ncvoter_1001r_19c.csv.race
+[ncvoter_1001r_19c.csv.voter_id]->ncvoter_1001r_19c.csv.ethnic
+[ncvoter_1001r_19c.csv.voter_id]->ncvoter_1001r_19c.csv.city
+[ncvoter_1001r_19c.csv.voter_id]->ncvoter_1001r_19c.csv.state
+[ncvoter_1001r_19c.csv.voter_id]->ncvoter_1001r_19c.csv.zip_code
+[ncvoter_1001r_19c.csv.voter_id]->ncvoter_1001r_19c.csv.birth_place
+[ncvoter_1001r_19c.csv.voter_id]->ncvoter_1001r_19c.csv.register_date
+[ncvoter_1001r_19c.csv.voter_reg_num]->ncvoter_1001r_19c.csv.voter_id
+[ncvoter_1001r_19c.csv.voter_reg_num]->ncvoter_1001r_19c.csv.name_prefix
+[ncvoter_1001r_19c.csv.voter_reg_num]->ncvoter_1001r_19c.csv.first_name
+[ncvoter_1001r_19c.csv.voter_reg_num]->ncvoter_1001r_19c.csv.last_name
+[ncvoter_1001r_19c.csv.voter_reg_num]->ncvoter_1001r_19c.csv.name_suffix
+[ncvoter_1001r_19c.csv.voter_reg_num]->ncvoter_1001r_19c.csv.age
+[ncvoter_1001r_19c.csv.voter_reg_num]->ncvoter_1001r_19c.csv.gender
+[ncvoter_1001r_19c.csv.voter_reg_num]->ncvoter_1001r_19c.csv.race
+[ncvoter_1001r_19c.csv.voter_reg_num]->ncvoter_1001r_19c.csv.ethnic
+[ncvoter_1001r_19c.csv.voter_reg_num]->ncvoter_1001r_19c.csv.city
+[ncvoter_1001r_19c.csv.voter_reg_num]->ncvoter_1001r_19c.csv.state
+[ncvoter_1001r_19c.csv.voter_reg_num]->ncvoter_1001r_19c.csv.zip_code
+[ncvoter_1001r_19c.csv.voter_reg_num]->ncvoter_1001r_19c.csv.birth_place
+[ncvoter_1001r_19c.csv.voter_reg_num]->ncvoter_1001r_19c.csv.register_date
+[ncvoter_1001r_19c.csv.name_prefix]->ncvoter_1001r_19c.csv.state
+[ncvoter_1001r_19c.csv.first_name]->ncvoter_1001r_19c.csv.state
+[ncvoter_1001r_19c.csv.middle_name]->ncvoter_1001r_19c.csv.state
+[ncvoter_1001r_19c.csv.last_name]->ncvoter_1001r_19c.csv.state
+[ncvoter_1001r_19c.csv.name_suffix]->ncvoter_1001r_19c.csv.state
+[ncvoter_1001r_19c.csv.age]->ncvoter_1001r_19c.csv.state
+[ncvoter_1001r_19c.csv.gender]->ncvoter_1001r_19c.csv.state
+[ncvoter_1001r_19c.csv.race]->ncvoter_1001r_19c.csv.state
+[ncvoter_1001r_19c.csv.ethnic]->ncvoter_1001r_19c.csv.state
+[ncvoter_1001r_19c.csv.street_address]->ncvoter_1001r_19c.csv.city
+[ncvoter_1001r_19c.csv.street_address]->ncvoter_1001r_19c.csv.state
+[ncvoter_1001r_19c.csv.street_address]->ncvoter_1001r_19c.csv.zip_code
+[ncvoter_1001r_19c.csv.city]->ncvoter_1001r_19c.csv.state
+[ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.state
+[ncvoter_1001r_19c.csv.full_phone_num]->ncvoter_1001r_19c.csv.state
+[ncvoter_1001r_19c.csv.birth_place]->ncvoter_1001r_19c.csv.state
+[ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.state
+[ncvoter_1001r_19c.csv.download_month]->ncvoter_1001r_19c.csv.state
+[ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.voter_id]->ncvoter_1001r_19c.csv.street_address
+[ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.voter_id]->ncvoter_1001r_19c.csv.full_phone_num
+[ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.voter_id]->ncvoter_1001r_19c.csv.download_month
+[ncvoter_1001r_19c.csv.street_address, ncvoter_1001r_19c.csv.voter_id]->ncvoter_1001r_19c.csv.middle_name
+[ncvoter_1001r_19c.csv.street_address, ncvoter_1001r_19c.csv.voter_id]->ncvoter_1001r_19c.csv.full_phone_num
+[ncvoter_1001r_19c.csv.street_address, ncvoter_1001r_19c.csv.voter_id]->ncvoter_1001r_19c.csv.download_month
+[ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.voter_id]->ncvoter_1001r_19c.csv.middle_name
+[ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.voter_id]->ncvoter_1001r_19c.csv.street_address
+[ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.voter_id]->ncvoter_1001r_19c.csv.download_month
+[ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.voter_id]->ncvoter_1001r_19c.csv.middle_name
+[ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.voter_id]->ncvoter_1001r_19c.csv.street_address
+[ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.voter_id]->ncvoter_1001r_19c.csv.full_phone_num
+[ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.voter_reg_num]->ncvoter_1001r_19c.csv.street_address
+[ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.voter_reg_num]->ncvoter_1001r_19c.csv.full_phone_num
+[ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.voter_reg_num]->ncvoter_1001r_19c.csv.download_month
+[ncvoter_1001r_19c.csv.street_address, ncvoter_1001r_19c.csv.voter_reg_num]->ncvoter_1001r_19c.csv.middle_name
+[ncvoter_1001r_19c.csv.street_address, ncvoter_1001r_19c.csv.voter_reg_num]->ncvoter_1001r_19c.csv.full_phone_num
+[ncvoter_1001r_19c.csv.street_address, ncvoter_1001r_19c.csv.voter_reg_num]->ncvoter_1001r_19c.csv.download_month
+[ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.voter_reg_num]->ncvoter_1001r_19c.csv.middle_name
+[ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.voter_reg_num]->ncvoter_1001r_19c.csv.street_address
+[ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.voter_reg_num]->ncvoter_1001r_19c.csv.download_month
+[ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.voter_reg_num]->ncvoter_1001r_19c.csv.middle_name
+[ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.voter_reg_num]->ncvoter_1001r_19c.csv.street_address
+[ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.voter_reg_num]->ncvoter_1001r_19c.csv.full_phone_num
+[ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.last_name]->ncvoter_1001r_19c.csv.name_prefix
+[ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.last_name]->ncvoter_1001r_19c.csv.name_suffix
+[ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.last_name]->ncvoter_1001r_19c.csv.gender
+[ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.street_address]->ncvoter_1001r_19c.csv.voter_id
+[ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.street_address]->ncvoter_1001r_19c.csv.voter_reg_num
+[ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.street_address]->ncvoter_1001r_19c.csv.name_prefix
+[ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.street_address]->ncvoter_1001r_19c.csv.middle_name
+[ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.street_address]->ncvoter_1001r_19c.csv.last_name
+[ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.street_address]->ncvoter_1001r_19c.csv.name_suffix
+[ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.street_address]->ncvoter_1001r_19c.csv.age
+[ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.street_address]->ncvoter_1001r_19c.csv.gender
+[ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.street_address]->ncvoter_1001r_19c.csv.race
+[ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.street_address]->ncvoter_1001r_19c.csv.ethnic
+[ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.street_address]->ncvoter_1001r_19c.csv.full_phone_num
+[ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.street_address]->ncvoter_1001r_19c.csv.birth_place
+[ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.street_address]->ncvoter_1001r_19c.csv.register_date
+[ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.street_address]->ncvoter_1001r_19c.csv.download_month
+[ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.city
+[ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name]->ncvoter_1001r_19c.csv.name_suffix
+[ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.street_address]->ncvoter_1001r_19c.csv.name_suffix
+[ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.street_address]->ncvoter_1001r_19c.csv.race
+[ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.street_address]->ncvoter_1001r_19c.csv.ethnic
+[ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.street_address]->ncvoter_1001r_19c.csv.full_phone_num
+[ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.street_address]->ncvoter_1001r_19c.csv.birth_place
+[ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.street_address]->ncvoter_1001r_19c.csv.download_month
+[ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.city
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.last_name]->ncvoter_1001r_19c.csv.race
+[ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.street_address]->ncvoter_1001r_19c.csv.race
+[ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.city
+[ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.street_address]->ncvoter_1001r_19c.csv.name_prefix
+[ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.street_address]->ncvoter_1001r_19c.csv.name_suffix
+[ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.street_address]->ncvoter_1001r_19c.csv.race
+[ncvoter_1001r_19c.csv.register_date, ncvoter_1001r_19c.csv.street_address]->ncvoter_1001r_19c.csv.race
+[ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.street_address]->ncvoter_1001r_19c.csv.name_suffix
+[ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.name_prefix, ncvoter_1001r_19c.csv.street_address]->ncvoter_1001r_19c.csv.gender
+[ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.name_prefix, ncvoter_1001r_19c.csv.street_address]->ncvoter_1001r_19c.csv.register_date
+[ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name]->ncvoter_1001r_19c.csv.race
+[ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name]->ncvoter_1001r_19c.csv.full_phone_num
+[ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name]->ncvoter_1001r_19c.csv.register_date
+[ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.middle_name]->ncvoter_1001r_19c.csv.name_prefix
+[ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.name_prefix
+[ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.name_suffix
+[ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.gender
+[ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.race
+[ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.ethnic
+[ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.full_phone_num
+[ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.name_prefix
+[ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.name_suffix
+[ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.gender
+[ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.full_phone_num
+[ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.ethnic
+[ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.birth_place
+[ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.register_date
+[ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.last_name]->ncvoter_1001r_19c.csv.race
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.middle_name]->ncvoter_1001r_19c.csv.name_prefix
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.middle_name]->ncvoter_1001r_19c.csv.name_suffix
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.middle_name]->ncvoter_1001r_19c.csv.gender
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.last_name]->ncvoter_1001r_19c.csv.voter_id
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.last_name]->ncvoter_1001r_19c.csv.voter_reg_num
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.last_name]->ncvoter_1001r_19c.csv.ethnic
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.last_name]->ncvoter_1001r_19c.csv.city
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.last_name]->ncvoter_1001r_19c.csv.zip_code
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.last_name]->ncvoter_1001r_19c.csv.birth_place
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.last_name]->ncvoter_1001r_19c.csv.register_date
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.city, ncvoter_1001r_19c.csv.first_name]->ncvoter_1001r_19c.csv.name_suffix
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.city, ncvoter_1001r_19c.csv.first_name]->ncvoter_1001r_19c.csv.race
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.city, ncvoter_1001r_19c.csv.first_name]->ncvoter_1001r_19c.csv.ethnic
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.name_prefix
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.name_suffix
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.gender
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.race
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.ethnic
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.race
+[ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.race, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.name_suffix
+[ncvoter_1001r_19c.csv.ethnic, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.name_suffix
+[ncvoter_1001r_19c.csv.city, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.middle_name]->ncvoter_1001r_19c.csv.name_prefix
+[ncvoter_1001r_19c.csv.city, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.middle_name]->ncvoter_1001r_19c.csv.name_suffix
+[ncvoter_1001r_19c.csv.city, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.middle_name]->ncvoter_1001r_19c.csv.gender
+[ncvoter_1001r_19c.csv.city, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.middle_name]->ncvoter_1001r_19c.csv.race
+[ncvoter_1001r_19c.csv.city, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.middle_name]->ncvoter_1001r_19c.csv.ethnic
+[ncvoter_1001r_19c.csv.city, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.middle_name]->ncvoter_1001r_19c.csv.zip_code
+[ncvoter_1001r_19c.csv.city, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.middle_name]->ncvoter_1001r_19c.csv.full_phone_num
+[ncvoter_1001r_19c.csv.city, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.last_name]->ncvoter_1001r_19c.csv.birth_place
+[ncvoter_1001r_19c.csv.city, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.name_suffix
+[ncvoter_1001r_19c.csv.city, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.gender
+[ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.gender
+[ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.register_date, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.name_prefix
+[ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.register_date, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.name_suffix
+[ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.register_date, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.gender
+[ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.register_date, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.birth_place
+[ncvoter_1001r_19c.csv.birth_place, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.name_suffix
+[ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.last_name]->ncvoter_1001r_19c.csv.race
+[ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.name_prefix
+[ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.street_address]->ncvoter_1001r_19c.csv.age
+[ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.ethnic
+[ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.name_prefix
+[ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.first_name
+[ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.gender
+[ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.race
+[ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.full_phone_num
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name]->ncvoter_1001r_19c.csv.ethnic
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name]->ncvoter_1001r_19c.csv.street_address
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name]->ncvoter_1001r_19c.csv.city
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name]->ncvoter_1001r_19c.csv.zip_code
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name]->ncvoter_1001r_19c.csv.full_phone_num
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name]->ncvoter_1001r_19c.csv.birth_place
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name]->ncvoter_1001r_19c.csv.download_month
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.street_address]->ncvoter_1001r_19c.csv.last_name
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.city, ncvoter_1001r_19c.csv.middle_name]->ncvoter_1001r_19c.csv.name_suffix
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.name_suffix
+[ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.street_address]->ncvoter_1001r_19c.csv.register_date
+[ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.register_date, ncvoter_1001r_19c.csv.street_address]->ncvoter_1001r_19c.csv.name_prefix
+[ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.register_date, ncvoter_1001r_19c.csv.street_address]->ncvoter_1001r_19c.csv.gender
+[ncvoter_1001r_19c.csv.city, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name]->ncvoter_1001r_19c.csv.ethnic
+[ncvoter_1001r_19c.csv.city, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name]->ncvoter_1001r_19c.csv.zip_code
+[ncvoter_1001r_19c.csv.city, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.name_suffix
+[ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.register_date, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.name_prefix
+[ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.register_date, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.name_suffix
+[ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name]->ncvoter_1001r_19c.csv.race
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.last_name]->ncvoter_1001r_19c.csv.ethnic
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.street_address]->ncvoter_1001r_19c.csv.full_phone_num
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.name_suffix
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.ethnic
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.last_name]->ncvoter_1001r_19c.csv.name_suffix
+[ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.street_address]->ncvoter_1001r_19c.csv.ethnic
+[ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.street_address]->ncvoter_1001r_19c.csv.full_phone_num
+[ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.street_address]->ncvoter_1001r_19c.csv.birth_place
+[ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.street_address]->ncvoter_1001r_19c.csv.download_month
+[ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.name_suffix
+[ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.ethnic
+[ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.name_prefix
+[ncvoter_1001r_19c.csv.city, ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.last_name]->ncvoter_1001r_19c.csv.name_suffix
+[ncvoter_1001r_19c.csv.city, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.last_name]->ncvoter_1001r_19c.csv.race
+[ncvoter_1001r_19c.csv.city, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.last_name]->ncvoter_1001r_19c.csv.race
+[ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.race
+[ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.race
+[ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.name_prefix
+[ncvoter_1001r_19c.csv.name_suffix, ncvoter_1001r_19c.csv.register_date, ncvoter_1001r_19c.csv.street_address]->ncvoter_1001r_19c.csv.ethnic
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.street_address]->ncvoter_1001r_19c.csv.ethnic
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.street_address]->ncvoter_1001r_19c.csv.birth_place
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.race, ncvoter_1001r_19c.csv.street_address]->ncvoter_1001r_19c.csv.last_name
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.race, ncvoter_1001r_19c.csv.street_address]->ncvoter_1001r_19c.csv.full_phone_num
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.street_address]->ncvoter_1001r_19c.csv.last_name
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.register_date, ncvoter_1001r_19c.csv.street_address]->ncvoter_1001r_19c.csv.last_name
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.register_date, ncvoter_1001r_19c.csv.street_address]->ncvoter_1001r_19c.csv.name_suffix
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.register_date, ncvoter_1001r_19c.csv.street_address]->ncvoter_1001r_19c.csv.ethnic
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.register_date, ncvoter_1001r_19c.csv.street_address]->ncvoter_1001r_19c.csv.full_phone_num
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.register_date, ncvoter_1001r_19c.csv.street_address]->ncvoter_1001r_19c.csv.birth_place
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.street_address]->ncvoter_1001r_19c.csv.birth_place
+[ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.race, ncvoter_1001r_19c.csv.street_address]->ncvoter_1001r_19c.csv.ethnic
+[ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.register_date, ncvoter_1001r_19c.csv.street_address]->ncvoter_1001r_19c.csv.ethnic
+[ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.register_date, ncvoter_1001r_19c.csv.street_address]->ncvoter_1001r_19c.csv.full_phone_num
+[ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.register_date, ncvoter_1001r_19c.csv.street_address]->ncvoter_1001r_19c.csv.download_month
+[ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.street_address]->ncvoter_1001r_19c.csv.ethnic
+[ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.street_address]->ncvoter_1001r_19c.csv.download_month
+[ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.street_address]->ncvoter_1001r_19c.csv.race
+[ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.street_address]->ncvoter_1001r_19c.csv.ethnic
+[ncvoter_1001r_19c.csv.ethnic, ncvoter_1001r_19c.csv.register_date, ncvoter_1001r_19c.csv.street_address]->ncvoter_1001r_19c.csv.name_suffix
+[ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.ethnic, ncvoter_1001r_19c.csv.street_address]->ncvoter_1001r_19c.csv.race
+[ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.register_date, ncvoter_1001r_19c.csv.street_address]->ncvoter_1001r_19c.csv.name_prefix
+[ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.register_date, ncvoter_1001r_19c.csv.street_address]->ncvoter_1001r_19c.csv.ethnic
+[ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.name_prefix, ncvoter_1001r_19c.csv.street_address]->ncvoter_1001r_19c.csv.voter_id
+[ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.name_prefix, ncvoter_1001r_19c.csv.street_address]->ncvoter_1001r_19c.csv.voter_reg_num
+[ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.name_prefix, ncvoter_1001r_19c.csv.street_address]->ncvoter_1001r_19c.csv.first_name
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.name_prefix]->ncvoter_1001r_19c.csv.gender
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.name_prefix, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.gender
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.name_prefix, ncvoter_1001r_19c.csv.street_address]->ncvoter_1001r_19c.csv.voter_id
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.name_prefix, ncvoter_1001r_19c.csv.street_address]->ncvoter_1001r_19c.csv.voter_reg_num
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.name_prefix, ncvoter_1001r_19c.csv.street_address]->ncvoter_1001r_19c.csv.first_name
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.name_prefix]->ncvoter_1001r_19c.csv.voter_id
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.name_prefix]->ncvoter_1001r_19c.csv.voter_reg_num
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.name_prefix]->ncvoter_1001r_19c.csv.first_name
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.name_prefix]->ncvoter_1001r_19c.csv.gender
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.name_prefix]->ncvoter_1001r_19c.csv.register_date
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.city, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.name_prefix]->ncvoter_1001r_19c.csv.gender
+[ncvoter_1001r_19c.csv.city, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.name_prefix]->ncvoter_1001r_19c.csv.gender
+[ncvoter_1001r_19c.csv.birth_place, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.name_prefix]->ncvoter_1001r_19c.csv.gender
+[ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.voter_id
+[ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.voter_reg_num
+[ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.age
+[ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.street_address
+[ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.download_month
+[ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.register_date, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.voter_id
+[ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.register_date, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.voter_reg_num
+[ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.register_date, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.last_name
+[ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.register_date, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.age
+[ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.register_date, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.street_address
+[ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.register_date, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.download_month
+[ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.race, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.voter_id
+[ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.race, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.voter_reg_num
+[ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.race, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.age
+[ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.voter_id
+[ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.voter_reg_num
+[ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.middle_name
+[ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.age
+[ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.street_address
+[ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.download_month
+[ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.name_suffix, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.race
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.middle_name]->ncvoter_1001r_19c.csv.race
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.voter_id
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.voter_reg_num
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.last_name
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.ethnic
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.street_address
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.city
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.zip_code
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.birth_place
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.download_month
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.last_name]->ncvoter_1001r_19c.csv.middle_name
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.last_name]->ncvoter_1001r_19c.csv.street_address
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.last_name]->ncvoter_1001r_19c.csv.download_month
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.name_suffix, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.ethnic
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.name_prefix
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.city, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.gender]->ncvoter_1001r_19c.csv.name_prefix
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.city, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.name_prefix
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.city, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.birth_place
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.city, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.first_name]->ncvoter_1001r_19c.csv.full_phone_num
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.birth_place, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.middle_name]->ncvoter_1001r_19c.csv.race
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.birth_place, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.middle_name]->ncvoter_1001r_19c.csv.full_phone_num
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.birth_place, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.first_name]->ncvoter_1001r_19c.csv.race
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.last_name]->ncvoter_1001r_19c.csv.middle_name
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.last_name]->ncvoter_1001r_19c.csv.street_address
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.last_name]->ncvoter_1001r_19c.csv.full_phone_num
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.full_phone_num
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.full_phone_num]->ncvoter_1001r_19c.csv.race
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.name_prefix
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.gender
+[ncvoter_1001r_19c.csv.ethnic, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name]->ncvoter_1001r_19c.csv.voter_id
+[ncvoter_1001r_19c.csv.ethnic, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name]->ncvoter_1001r_19c.csv.voter_reg_num
+[ncvoter_1001r_19c.csv.ethnic, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name]->ncvoter_1001r_19c.csv.age
+[ncvoter_1001r_19c.csv.ethnic, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name]->ncvoter_1001r_19c.csv.street_address
+[ncvoter_1001r_19c.csv.ethnic, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name]->ncvoter_1001r_19c.csv.city
+[ncvoter_1001r_19c.csv.ethnic, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name]->ncvoter_1001r_19c.csv.zip_code
+[ncvoter_1001r_19c.csv.ethnic, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name]->ncvoter_1001r_19c.csv.birth_place
+[ncvoter_1001r_19c.csv.ethnic, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name]->ncvoter_1001r_19c.csv.download_month
+[ncvoter_1001r_19c.csv.ethnic, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.race
+[ncvoter_1001r_19c.csv.city, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name]->ncvoter_1001r_19c.csv.voter_id
+[ncvoter_1001r_19c.csv.city, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name]->ncvoter_1001r_19c.csv.voter_reg_num
+[ncvoter_1001r_19c.csv.city, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name]->ncvoter_1001r_19c.csv.age
+[ncvoter_1001r_19c.csv.city, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name]->ncvoter_1001r_19c.csv.street_address
+[ncvoter_1001r_19c.csv.city, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name]->ncvoter_1001r_19c.csv.download_month
+[ncvoter_1001r_19c.csv.city, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.voter_id
+[ncvoter_1001r_19c.csv.city, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.voter_reg_num
+[ncvoter_1001r_19c.csv.city, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.last_name
+[ncvoter_1001r_19c.csv.city, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.age
+[ncvoter_1001r_19c.csv.city, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.street_address
+[ncvoter_1001r_19c.csv.city, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.birth_place
+[ncvoter_1001r_19c.csv.city, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.download_month
+[ncvoter_1001r_19c.csv.city, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.ethnic
+[ncvoter_1001r_19c.csv.city, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.name_suffix]->ncvoter_1001r_19c.csv.race
+[ncvoter_1001r_19c.csv.city, ncvoter_1001r_19c.csv.ethnic, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.last_name]->ncvoter_1001r_19c.csv.register_date
+[ncvoter_1001r_19c.csv.city, ncvoter_1001r_19c.csv.ethnic, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.full_phone_num]->ncvoter_1001r_19c.csv.race
+[ncvoter_1001r_19c.csv.city, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.race
+[ncvoter_1001r_19c.csv.city, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.middle_name]->ncvoter_1001r_19c.csv.birth_place
+[ncvoter_1001r_19c.csv.city, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.last_name]->ncvoter_1001r_19c.csv.full_phone_num
+[ncvoter_1001r_19c.csv.city, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.name_suffix]->ncvoter_1001r_19c.csv.race
+[ncvoter_1001r_19c.csv.city, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.ethnic, ncvoter_1001r_19c.csv.first_name]->ncvoter_1001r_19c.csv.race
+[ncvoter_1001r_19c.csv.city, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.race
+[ncvoter_1001r_19c.csv.city, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.birth_place
+[ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.register_date, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.age
+[ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.register_date, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.race
+[ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.register_date, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.ethnic
+[ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.register_date, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.download_month
+[ncvoter_1001r_19c.csv.birth_place, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name]->ncvoter_1001r_19c.csv.voter_id
+[ncvoter_1001r_19c.csv.birth_place, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name]->ncvoter_1001r_19c.csv.voter_reg_num
+[ncvoter_1001r_19c.csv.birth_place, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name]->ncvoter_1001r_19c.csv.age
+[ncvoter_1001r_19c.csv.birth_place, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name]->ncvoter_1001r_19c.csv.ethnic
+[ncvoter_1001r_19c.csv.birth_place, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name]->ncvoter_1001r_19c.csv.street_address
+[ncvoter_1001r_19c.csv.birth_place, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name]->ncvoter_1001r_19c.csv.city
+[ncvoter_1001r_19c.csv.birth_place, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name]->ncvoter_1001r_19c.csv.zip_code
+[ncvoter_1001r_19c.csv.birth_place, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name]->ncvoter_1001r_19c.csv.download_month
+[ncvoter_1001r_19c.csv.birth_place, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.download_month
+[ncvoter_1001r_19c.csv.birth_place, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.ethnic
+[ncvoter_1001r_19c.csv.birth_place, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.ethnic
+[ncvoter_1001r_19c.csv.birth_place, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.city
+[ncvoter_1001r_19c.csv.birth_place, ncvoter_1001r_19c.csv.city, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.middle_name]->ncvoter_1001r_19c.csv.download_month
+[ncvoter_1001r_19c.csv.birth_place, ncvoter_1001r_19c.csv.city, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.full_phone_num]->ncvoter_1001r_19c.csv.race
+[ncvoter_1001r_19c.csv.birth_place, ncvoter_1001r_19c.csv.city, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.first_name]->ncvoter_1001r_19c.csv.race
+[ncvoter_1001r_19c.csv.birth_place, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.race
+[ncvoter_1001r_19c.csv.birth_place, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.race
+[ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name]->ncvoter_1001r_19c.csv.voter_id
+[ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name]->ncvoter_1001r_19c.csv.voter_reg_num
+[ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name]->ncvoter_1001r_19c.csv.age
+[ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name]->ncvoter_1001r_19c.csv.ethnic
+[ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name]->ncvoter_1001r_19c.csv.street_address
+[ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name]->ncvoter_1001r_19c.csv.city
+[ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name]->ncvoter_1001r_19c.csv.zip_code
+[ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name]->ncvoter_1001r_19c.csv.birth_place
+[ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.name_suffix]->ncvoter_1001r_19c.csv.name_prefix
+[ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.race]->ncvoter_1001r_19c.csv.name_prefix
+[ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.birth_place
+[ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.middle_name]->ncvoter_1001r_19c.csv.name_prefix
+[ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.ethnic
+[ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.voter_id
+[ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.voter_reg_num
+[ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.middle_name
+[ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.age
+[ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.street_address
+[ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.full_phone_num
+[ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.last_name]->ncvoter_1001r_19c.csv.city
+[ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.last_name]->ncvoter_1001r_19c.csv.birth_place
+[ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.voter_id
+[ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.voter_reg_num
+[ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.middle_name
+[ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.age
+[ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.ethnic
+[ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.street_address
+[ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.city
+[ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.zip_code
+[ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.full_phone_num
+[ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.birth_place
+[ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.name_suffix, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.race
+[ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.ethnic, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.race
+[ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.register_date, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.race
+[ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.gender
+[ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.race, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.birth_place
+[ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.register_date, ncvoter_1001r_19c.csv.street_address]->ncvoter_1001r_19c.csv.voter_id
+[ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.register_date, ncvoter_1001r_19c.csv.street_address]->ncvoter_1001r_19c.csv.voter_reg_num
+[ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.register_date, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.voter_id
+[ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.register_date, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.voter_reg_num
+[ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.register_date, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.age
+[ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.register_date, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.street_address
+[ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.register_date, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.birth_place
+[ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.register_date, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.download_month
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.voter_id
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.voter_reg_num
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name]->ncvoter_1001r_19c.csv.voter_id
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name]->ncvoter_1001r_19c.csv.voter_reg_num
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name]->ncvoter_1001r_19c.csv.name_prefix
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name]->ncvoter_1001r_19c.csv.first_name
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name]->ncvoter_1001r_19c.csv.register_date
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.street_address]->ncvoter_1001r_19c.csv.voter_id
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.street_address]->ncvoter_1001r_19c.csv.voter_reg_num
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.street_address]->ncvoter_1001r_19c.csv.first_name
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.name_prefix
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.name_prefix
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.name_suffix
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.ethnic
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.register_date, ncvoter_1001r_19c.csv.street_address]->ncvoter_1001r_19c.csv.voter_id
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.register_date, ncvoter_1001r_19c.csv.street_address]->ncvoter_1001r_19c.csv.voter_reg_num
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.register_date, ncvoter_1001r_19c.csv.street_address]->ncvoter_1001r_19c.csv.first_name
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.city, ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.middle_name]->ncvoter_1001r_19c.csv.name_prefix
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.city, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.ethnic
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.register_date, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.ethnic
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.race
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.name_prefix
+[ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.street_address]->ncvoter_1001r_19c.csv.voter_id
+[ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.street_address]->ncvoter_1001r_19c.csv.voter_reg_num
+[ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.street_address]->ncvoter_1001r_19c.csv.first_name
+[ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.name_prefix
+[ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.race
+[ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.birth_place
+[ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.download_month
+[ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.register_date, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.race
+[ncvoter_1001r_19c.csv.ethnic, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.voter_id
+[ncvoter_1001r_19c.csv.ethnic, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.voter_reg_num
+[ncvoter_1001r_19c.csv.ethnic, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.age
+[ncvoter_1001r_19c.csv.ethnic, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.street_address
+[ncvoter_1001r_19c.csv.ethnic, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.city
+[ncvoter_1001r_19c.csv.ethnic, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.zip_code
+[ncvoter_1001r_19c.csv.ethnic, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.birth_place
+[ncvoter_1001r_19c.csv.ethnic, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.download_month
+[ncvoter_1001r_19c.csv.ethnic, ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name]->ncvoter_1001r_19c.csv.race
+[ncvoter_1001r_19c.csv.ethnic, ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name]->ncvoter_1001r_19c.csv.birth_place
+[ncvoter_1001r_19c.csv.city, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.race]->ncvoter_1001r_19c.csv.birth_place
+[ncvoter_1001r_19c.csv.city, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.voter_id
+[ncvoter_1001r_19c.csv.city, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.voter_reg_num
+[ncvoter_1001r_19c.csv.city, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.age
+[ncvoter_1001r_19c.csv.city, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.street_address
+[ncvoter_1001r_19c.csv.city, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.birth_place
+[ncvoter_1001r_19c.csv.city, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.download_month
+[ncvoter_1001r_19c.csv.city, ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name]->ncvoter_1001r_19c.csv.name_prefix
+[ncvoter_1001r_19c.csv.city, ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name]->ncvoter_1001r_19c.csv.race
+[ncvoter_1001r_19c.csv.city, ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name]->ncvoter_1001r_19c.csv.birth_place
+[ncvoter_1001r_19c.csv.city, ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name]->ncvoter_1001r_19c.csv.download_month
+[ncvoter_1001r_19c.csv.city, ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.race
+[ncvoter_1001r_19c.csv.city, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name]->ncvoter_1001r_19c.csv.birth_place
+[ncvoter_1001r_19c.csv.city, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name]->ncvoter_1001r_19c.csv.birth_place
+[ncvoter_1001r_19c.csv.city, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.name_prefix
+[ncvoter_1001r_19c.csv.city, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.race
+[ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.birth_place
+[ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name]->ncvoter_1001r_19c.csv.name_prefix
+[ncvoter_1001r_19c.csv.birth_place, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.race]->ncvoter_1001r_19c.csv.ethnic
+[ncvoter_1001r_19c.csv.birth_place, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.race
+[ncvoter_1001r_19c.csv.birth_place, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.voter_id
+[ncvoter_1001r_19c.csv.birth_place, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.voter_reg_num
+[ncvoter_1001r_19c.csv.birth_place, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.age
+[ncvoter_1001r_19c.csv.birth_place, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.ethnic
+[ncvoter_1001r_19c.csv.birth_place, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.street_address
+[ncvoter_1001r_19c.csv.birth_place, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.city
+[ncvoter_1001r_19c.csv.birth_place, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.zip_code
+[ncvoter_1001r_19c.csv.birth_place, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.download_month
+[ncvoter_1001r_19c.csv.birth_place, ncvoter_1001r_19c.csv.ethnic, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name]->ncvoter_1001r_19c.csv.race
+[ncvoter_1001r_19c.csv.birth_place, ncvoter_1001r_19c.csv.city, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name]->ncvoter_1001r_19c.csv.race
+[ncvoter_1001r_19c.csv.birth_place, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name]->ncvoter_1001r_19c.csv.ethnic
+[ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.race]->ncvoter_1001r_19c.csv.ethnic
+[ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.birth_place
+[ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.voter_id
+[ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.voter_reg_num
+[ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.age
+[ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.ethnic
+[ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.street_address
+[ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.city
+[ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.zip_code
+[ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.birth_place
+[ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name]->ncvoter_1001r_19c.csv.birth_place
+[ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.ethnic, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name]->ncvoter_1001r_19c.csv.race
+[ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.register_date, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.race
+[ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name]->ncvoter_1001r_19c.csv.ethnic
+[ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.name_suffix, ncvoter_1001r_19c.csv.register_date, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.ethnic
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.street_address]->ncvoter_1001r_19c.csv.voter_id
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.street_address]->ncvoter_1001r_19c.csv.voter_reg_num
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.street_address]->ncvoter_1001r_19c.csv.first_name
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.street_address]->ncvoter_1001r_19c.csv.middle_name
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.street_address]->ncvoter_1001r_19c.csv.register_date
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.voter_id
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.voter_reg_num
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.name_prefix
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.first_name
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.birth_place
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.register_date
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.city, ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.last_name]->ncvoter_1001r_19c.csv.voter_id
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.city, ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.last_name]->ncvoter_1001r_19c.csv.voter_reg_num
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.city, ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.last_name]->ncvoter_1001r_19c.csv.name_prefix
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.city, ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.last_name]->ncvoter_1001r_19c.csv.first_name
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.city, ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.last_name]->ncvoter_1001r_19c.csv.zip_code
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.city, ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.last_name]->ncvoter_1001r_19c.csv.birth_place
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.city, ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.last_name]->ncvoter_1001r_19c.csv.register_date
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.city, ncvoter_1001r_19c.csv.ethnic, ncvoter_1001r_19c.csv.last_name]->ncvoter_1001r_19c.csv.zip_code
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.city, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.zip_code
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.city, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.birth_place
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.city, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.last_name]->ncvoter_1001r_19c.csv.birth_place
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.register_date, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.birth_place
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.last_name]->ncvoter_1001r_19c.csv.name_suffix
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.street_address
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.city
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.zip_code
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.birth_place
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.last_name]->ncvoter_1001r_19c.csv.name_prefix
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.birth_place
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.gender
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.birth_place
+[ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.register_date, ncvoter_1001r_19c.csv.street_address]->ncvoter_1001r_19c.csv.voter_id
+[ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.register_date, ncvoter_1001r_19c.csv.street_address]->ncvoter_1001r_19c.csv.voter_reg_num
+[ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.register_date, ncvoter_1001r_19c.csv.street_address]->ncvoter_1001r_19c.csv.first_name
+[ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.register_date, ncvoter_1001r_19c.csv.street_address]->ncvoter_1001r_19c.csv.middle_name
+[ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.register_date, ncvoter_1001r_19c.csv.street_address]->ncvoter_1001r_19c.csv.age
+[ncvoter_1001r_19c.csv.ethnic, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.register_date, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.name_suffix
+[ncvoter_1001r_19c.csv.city, ncvoter_1001r_19c.csv.ethnic, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.name_suffix
+[ncvoter_1001r_19c.csv.city, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.last_name]->ncvoter_1001r_19c.csv.name_suffix
+[ncvoter_1001r_19c.csv.city, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.name_suffix
+[ncvoter_1001r_19c.csv.city, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.ethnic
+[ncvoter_1001r_19c.csv.city, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.zip_code
+[ncvoter_1001r_19c.csv.birth_place, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.race
+[ncvoter_1001r_19c.csv.birth_place, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.name_suffix
+[ncvoter_1001r_19c.csv.birth_place, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.ethnic
+[ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.register_date, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.name_suffix
+[ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.register_date, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.ethnic
+[ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.name_suffix
+[ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.ethnic
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.race, ncvoter_1001r_19c.csv.street_address]->ncvoter_1001r_19c.csv.voter_id
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.race, ncvoter_1001r_19c.csv.street_address]->ncvoter_1001r_19c.csv.voter_reg_num
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.race, ncvoter_1001r_19c.csv.street_address]->ncvoter_1001r_19c.csv.first_name
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.race, ncvoter_1001r_19c.csv.street_address]->ncvoter_1001r_19c.csv.middle_name
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.race, ncvoter_1001r_19c.csv.street_address]->ncvoter_1001r_19c.csv.register_date
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.race, ncvoter_1001r_19c.csv.street_address]->ncvoter_1001r_19c.csv.download_month
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.register_date, ncvoter_1001r_19c.csv.street_address]->ncvoter_1001r_19c.csv.voter_id
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.register_date, ncvoter_1001r_19c.csv.street_address]->ncvoter_1001r_19c.csv.voter_reg_num
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.register_date, ncvoter_1001r_19c.csv.street_address]->ncvoter_1001r_19c.csv.first_name
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.register_date, ncvoter_1001r_19c.csv.street_address]->ncvoter_1001r_19c.csv.middle_name
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.register_date, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.city
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.street_address]->ncvoter_1001r_19c.csv.voter_id
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.street_address]->ncvoter_1001r_19c.csv.voter_reg_num
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.street_address]->ncvoter_1001r_19c.csv.first_name
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.street_address]->ncvoter_1001r_19c.csv.middle_name
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.street_address]->ncvoter_1001r_19c.csv.register_date
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.race
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.city
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.street_address]->ncvoter_1001r_19c.csv.voter_id
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.street_address]->ncvoter_1001r_19c.csv.voter_reg_num
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.street_address]->ncvoter_1001r_19c.csv.first_name
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.street_address]->ncvoter_1001r_19c.csv.middle_name
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.street_address]->ncvoter_1001r_19c.csv.last_name
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.street_address]->ncvoter_1001r_19c.csv.full_phone_num
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.street_address]->ncvoter_1001r_19c.csv.register_date
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.ethnic, ncvoter_1001r_19c.csv.street_address]->ncvoter_1001r_19c.csv.middle_name
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.ethnic, ncvoter_1001r_19c.csv.street_address]->ncvoter_1001r_19c.csv.last_name
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.ethnic, ncvoter_1001r_19c.csv.street_address]->ncvoter_1001r_19c.csv.full_phone_num
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.register_date, ncvoter_1001r_19c.csv.street_address]->ncvoter_1001r_19c.csv.voter_id
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.register_date, ncvoter_1001r_19c.csv.street_address]->ncvoter_1001r_19c.csv.voter_reg_num
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.register_date, ncvoter_1001r_19c.csv.street_address]->ncvoter_1001r_19c.csv.first_name
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.register_date, ncvoter_1001r_19c.csv.street_address]->ncvoter_1001r_19c.csv.middle_name
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.register_date, ncvoter_1001r_19c.csv.street_address]->ncvoter_1001r_19c.csv.gender
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.city, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.race
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.register_date, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.race
+[ncvoter_1001r_19c.csv.birth_place, ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.register_date, ncvoter_1001r_19c.csv.street_address]->ncvoter_1001r_19c.csv.middle_name
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.ethnic, ncvoter_1001r_19c.csv.name_prefix, ncvoter_1001r_19c.csv.street_address]->ncvoter_1001r_19c.csv.voter_id
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.ethnic, ncvoter_1001r_19c.csv.name_prefix, ncvoter_1001r_19c.csv.street_address]->ncvoter_1001r_19c.csv.voter_reg_num
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.ethnic, ncvoter_1001r_19c.csv.name_prefix, ncvoter_1001r_19c.csv.street_address]->ncvoter_1001r_19c.csv.first_name
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.ethnic, ncvoter_1001r_19c.csv.name_prefix, ncvoter_1001r_19c.csv.street_address]->ncvoter_1001r_19c.csv.gender
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.ethnic, ncvoter_1001r_19c.csv.name_prefix, ncvoter_1001r_19c.csv.street_address]->ncvoter_1001r_19c.csv.register_date
+[ncvoter_1001r_19c.csv.city, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.name_prefix]->ncvoter_1001r_19c.csv.gender
+[ncvoter_1001r_19c.csv.birth_place, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.name_prefix]->ncvoter_1001r_19c.csv.gender
+[ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.name_prefix, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.gender
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.name_suffix, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.birth_place
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.ethnic, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.race]->ncvoter_1001r_19c.csv.full_phone_num
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.city, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.download_month
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.city, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.middle_name]->ncvoter_1001r_19c.csv.voter_id
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.city, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.middle_name]->ncvoter_1001r_19c.csv.voter_reg_num
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.city, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.middle_name]->ncvoter_1001r_19c.csv.last_name
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.city, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.middle_name]->ncvoter_1001r_19c.csv.street_address
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.city, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.middle_name]->ncvoter_1001r_19c.csv.register_date
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.birth_place, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.voter_id
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.birth_place, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.voter_reg_num
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.birth_place, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.last_name
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.birth_place, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.street_address
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.birth_place, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.register_date
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.birth_place, ncvoter_1001r_19c.csv.ethnic, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.name_suffix
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.birth_place, ncvoter_1001r_19c.csv.city, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.middle_name]->ncvoter_1001r_19c.csv.voter_id
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.birth_place, ncvoter_1001r_19c.csv.city, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.middle_name]->ncvoter_1001r_19c.csv.voter_reg_num
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.birth_place, ncvoter_1001r_19c.csv.city, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.middle_name]->ncvoter_1001r_19c.csv.last_name
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.birth_place, ncvoter_1001r_19c.csv.city, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.middle_name]->ncvoter_1001r_19c.csv.street_address
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.birth_place, ncvoter_1001r_19c.csv.city, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.middle_name]->ncvoter_1001r_19c.csv.register_date
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.voter_id
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.voter_reg_num
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.last_name
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.street_address
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.register_date
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.middle_name]->ncvoter_1001r_19c.csv.birth_place
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.ethnic, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.name_suffix
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.birth_place
+[ncvoter_1001r_19c.csv.city, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.ethnic, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.last_name]->ncvoter_1001r_19c.csv.voter_id
+[ncvoter_1001r_19c.csv.city, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.ethnic, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.last_name]->ncvoter_1001r_19c.csv.voter_reg_num
+[ncvoter_1001r_19c.csv.city, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.ethnic, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.last_name]->ncvoter_1001r_19c.csv.middle_name
+[ncvoter_1001r_19c.csv.city, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.ethnic, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.last_name]->ncvoter_1001r_19c.csv.age
+[ncvoter_1001r_19c.csv.city, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.ethnic, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.last_name]->ncvoter_1001r_19c.csv.street_address
+[ncvoter_1001r_19c.csv.city, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.ethnic, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.last_name]->ncvoter_1001r_19c.csv.zip_code
+[ncvoter_1001r_19c.csv.city, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.ethnic
+[ncvoter_1001r_19c.csv.birth_place, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.name_suffix]->ncvoter_1001r_19c.csv.gender
+[ncvoter_1001r_19c.csv.birth_place, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.race]->ncvoter_1001r_19c.csv.gender
+[ncvoter_1001r_19c.csv.birth_place, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.middle_name]->ncvoter_1001r_19c.csv.gender
+[ncvoter_1001r_19c.csv.birth_place, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.ethnic
+[ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.name_suffix, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.ethnic
+[ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.race, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.ethnic
+[ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.ethnic, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.last_name]->ncvoter_1001r_19c.csv.voter_id
+[ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.ethnic, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.last_name]->ncvoter_1001r_19c.csv.voter_reg_num
+[ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.ethnic, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.last_name]->ncvoter_1001r_19c.csv.middle_name
+[ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.ethnic, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.last_name]->ncvoter_1001r_19c.csv.age
+[ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.ethnic, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.last_name]->ncvoter_1001r_19c.csv.street_address
+[ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.ethnic, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.last_name]->ncvoter_1001r_19c.csv.zip_code
+[ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.ethnic, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.last_name]->ncvoter_1001r_19c.csv.register_date
+[ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.ethnic, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.register_date, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.age
+[ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.ethnic, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.register_date, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.full_phone_num
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.register_date, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.full_phone_num
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.register_date, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.birth_place
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.race, ncvoter_1001r_19c.csv.register_date, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.full_phone_num
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.city, ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.full_phone_num
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.city, ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.birth_place
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.city, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.race, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.full_phone_num
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.city, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.full_phone_num
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.birth_place, ncvoter_1001r_19c.csv.city, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.middle_name]->ncvoter_1001r_19c.csv.race
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.register_date, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.full_phone_num
+[ncvoter_1001r_19c.csv.ethnic, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name]->ncvoter_1001r_19c.csv.download_month
+[ncvoter_1001r_19c.csv.city, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name]->ncvoter_1001r_19c.csv.voter_id
+[ncvoter_1001r_19c.csv.city, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name]->ncvoter_1001r_19c.csv.voter_reg_num
+[ncvoter_1001r_19c.csv.city, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name]->ncvoter_1001r_19c.csv.first_name
+[ncvoter_1001r_19c.csv.city, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name]->ncvoter_1001r_19c.csv.age
+[ncvoter_1001r_19c.csv.city, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name]->ncvoter_1001r_19c.csv.street_address
+[ncvoter_1001r_19c.csv.city, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name]->ncvoter_1001r_19c.csv.register_date
+[ncvoter_1001r_19c.csv.city, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name]->ncvoter_1001r_19c.csv.age
+[ncvoter_1001r_19c.csv.city, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name]->ncvoter_1001r_19c.csv.street_address
+[ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.voter_id
+[ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.voter_reg_num
+[ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.first_name
+[ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.age
+[ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.street_address
+[ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.register_date
+[ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.register_date, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.ethnic
+[ncvoter_1001r_19c.csv.birth_place, ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.register_date, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.ethnic
+[ncvoter_1001r_19c.csv.birth_place, ncvoter_1001r_19c.csv.city, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.race
+[ncvoter_1001r_19c.csv.birth_place, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name]->ncvoter_1001r_19c.csv.download_month
+[ncvoter_1001r_19c.csv.birth_place, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.register_date, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.race
+[ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.register_date, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.ethnic
+[ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.age
+[ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.street_address
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.city, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.last_name]->ncvoter_1001r_19c.csv.middle_name
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.city, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.last_name]->ncvoter_1001r_19c.csv.street_address
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.city, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.last_name]->ncvoter_1001r_19c.csv.download_month
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.city, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.last_name]->ncvoter_1001r_19c.csv.middle_name
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.city, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.last_name]->ncvoter_1001r_19c.csv.street_address
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.city, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.last_name]->ncvoter_1001r_19c.csv.full_phone_num
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.city, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.voter_id
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.city, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.voter_reg_num
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.city, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.first_name
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.city, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.middle_name
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.city, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.street_address
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.city, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.full_phone_num
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.middle_name
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.street_address
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.download_month
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.voter_id
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.voter_reg_num
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.first_name
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.middle_name
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.download_month
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.middle_name
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.street_address
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.full_phone_num
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.register_date, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.voter_id
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.register_date, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.voter_reg_num
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.register_date, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.first_name
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.register_date, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.middle_name
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.register_date, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.street_address
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.register_date, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.full_phone_num
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.street_address
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.voter_id
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.voter_reg_num
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.first_name
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.middle_name
+[ncvoter_1001r_19c.csv.city, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.name_suffix, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.ethnic
+[ncvoter_1001r_19c.csv.city, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.ethnic
+[ncvoter_1001r_19c.csv.city, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.birth_place
+[ncvoter_1001r_19c.csv.city, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.full_phone_num
+[ncvoter_1001r_19c.csv.city, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.birth_place
+[ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.register_date, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.birth_place
+[ncvoter_1001r_19c.csv.birth_place, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.name_suffix, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.ethnic
+[ncvoter_1001r_19c.csv.birth_place, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.name_suffix
+[ncvoter_1001r_19c.csv.birth_place, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.ethnic
+[ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.register_date, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.full_phone_num
+[ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.register_date, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.birth_place
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.race, ncvoter_1001r_19c.csv.register_date, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.ethnic
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.ethnic, ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.register_date, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.race
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.city, ncvoter_1001r_19c.csv.ethnic, ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.race
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.register_date, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.ethnic
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.ethnic, ncvoter_1001r_19c.csv.register_date, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.race
+[ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.register_date, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.city
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.name_prefix, ncvoter_1001r_19c.csv.name_suffix, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.city
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.name_prefix, ncvoter_1001r_19c.csv.name_suffix, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.download_month
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.birth_place, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.name_prefix, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.download_month
+[ncvoter_1001r_19c.csv.city, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.name_prefix, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.age
+[ncvoter_1001r_19c.csv.city, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.name_prefix]->ncvoter_1001r_19c.csv.voter_id
+[ncvoter_1001r_19c.csv.city, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.name_prefix]->ncvoter_1001r_19c.csv.voter_reg_num
+[ncvoter_1001r_19c.csv.city, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.name_prefix]->ncvoter_1001r_19c.csv.first_name
+[ncvoter_1001r_19c.csv.city, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.name_prefix]->ncvoter_1001r_19c.csv.register_date
+[ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.name_prefix, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.voter_id
+[ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.name_prefix, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.voter_reg_num
+[ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.name_prefix, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.first_name
+[ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.name_prefix, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.register_date
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.name_suffix, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.city
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.name_suffix, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.download_month
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.birth_place, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.download_month
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.birth_place, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.ethnic, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.middle_name]->ncvoter_1001r_19c.csv.voter_id
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.birth_place, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.ethnic, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.middle_name]->ncvoter_1001r_19c.csv.voter_reg_num
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.birth_place, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.ethnic, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.middle_name]->ncvoter_1001r_19c.csv.last_name
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.birth_place, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.ethnic, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.middle_name]->ncvoter_1001r_19c.csv.street_address
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.birth_place, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.ethnic, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.middle_name]->ncvoter_1001r_19c.csv.city
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.birth_place, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.ethnic, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.middle_name]->ncvoter_1001r_19c.csv.zip_code
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.birth_place, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.ethnic, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.middle_name]->ncvoter_1001r_19c.csv.register_date
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.name_suffix, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.city
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.ethnic, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.race]->ncvoter_1001r_19c.csv.voter_id
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.ethnic, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.race]->ncvoter_1001r_19c.csv.voter_reg_num
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.ethnic, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.race]->ncvoter_1001r_19c.csv.last_name
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.ethnic, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.race]->ncvoter_1001r_19c.csv.street_address
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.ethnic, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.race]->ncvoter_1001r_19c.csv.city
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.ethnic, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.race]->ncvoter_1001r_19c.csv.zip_code
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.ethnic, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.race]->ncvoter_1001r_19c.csv.birth_place
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.ethnic, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.middle_name, ncvoter_1001r_19c.csv.race]->ncvoter_1001r_19c.csv.register_date
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.ethnic, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.middle_name]->ncvoter_1001r_19c.csv.voter_id
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.ethnic, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.middle_name]->ncvoter_1001r_19c.csv.voter_reg_num
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.ethnic, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.middle_name]->ncvoter_1001r_19c.csv.last_name
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.ethnic, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.middle_name]->ncvoter_1001r_19c.csv.street_address
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.ethnic, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.middle_name]->ncvoter_1001r_19c.csv.city
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.ethnic, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.middle_name]->ncvoter_1001r_19c.csv.zip_code
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.ethnic, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.middle_name]->ncvoter_1001r_19c.csv.register_date
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.ethnic, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.city
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.city, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.ethnic, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.last_name]->ncvoter_1001r_19c.csv.middle_name
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.city, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.ethnic, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.last_name]->ncvoter_1001r_19c.csv.street_address
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.birth_place, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.last_name]->ncvoter_1001r_19c.csv.voter_id
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.birth_place, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.last_name]->ncvoter_1001r_19c.csv.voter_reg_num
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.birth_place, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.last_name]->ncvoter_1001r_19c.csv.first_name
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.birth_place, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.last_name]->ncvoter_1001r_19c.csv.middle_name
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.birth_place, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.last_name]->ncvoter_1001r_19c.csv.street_address
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.birth_place, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.last_name]->ncvoter_1001r_19c.csv.city
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.birth_place, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.last_name]->ncvoter_1001r_19c.csv.zip_code
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.birth_place, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.last_name]->ncvoter_1001r_19c.csv.register_date
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.ethnic, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.middle_name
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.city, ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.name_suffix, ncvoter_1001r_19c.csv.race, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.ethnic
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.city, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.name_suffix, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.ethnic
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.birth_place, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.register_date, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.name_suffix
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.city, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.ethnic, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.name_prefix]->ncvoter_1001r_19c.csv.voter_id
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.city, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.ethnic, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.name_prefix]->ncvoter_1001r_19c.csv.voter_reg_num
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.city, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.ethnic, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.name_prefix]->ncvoter_1001r_19c.csv.first_name
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.city, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.ethnic, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.name_prefix]->ncvoter_1001r_19c.csv.gender
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.city, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.ethnic, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.name_prefix]->ncvoter_1001r_19c.csv.register_date
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.name_prefix, ncvoter_1001r_19c.csv.name_suffix, ncvoter_1001r_19c.csv.register_date, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.birth_place
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.birth_place, ncvoter_1001r_19c.csv.ethnic, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.name_prefix, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.city
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.ethnic, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.name_prefix, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.voter_id
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.ethnic, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.name_prefix, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.voter_reg_num
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.ethnic, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.name_prefix, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.first_name
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.ethnic, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.name_prefix, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.gender
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.ethnic, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.name_prefix, ncvoter_1001r_19c.csv.zip_code]->ncvoter_1001r_19c.csv.register_date
+[ncvoter_1001r_19c.csv.birth_place, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.name_prefix, ncvoter_1001r_19c.csv.name_suffix, ncvoter_1001r_19c.csv.race]->ncvoter_1001r_19c.csv.gender
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.birth_place, ncvoter_1001r_19c.csv.ethnic, ncvoter_1001r_19c.csv.first_name, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.city
+[ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.last_name, ncvoter_1001r_19c.csv.name_suffix, ncvoter_1001r_19c.csv.race, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.birth_place
+[ncvoter_1001r_19c.csv.age, ncvoter_1001r_19c.csv.birth_place, ncvoter_1001r_19c.csv.city, ncvoter_1001r_19c.csv.download_month, ncvoter_1001r_19c.csv.ethnic, ncvoter_1001r_19c.csv.full_phone_num, ncvoter_1001r_19c.csv.gender, ncvoter_1001r_19c.csv.register_date]->ncvoter_1001r_19c.csv.name_suffix
