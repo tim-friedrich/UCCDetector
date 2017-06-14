@@ -60,7 +60,6 @@ INDEX VERSION 1.127+/Users/Tim/Projekte/UCC/workspace/.metadata/.plugins/org.ecl
 3310743309.index
 163641392.index
 2952755825.index
-4244900023.index
 3156421207.index
 2018457015.index
 3185038711.index

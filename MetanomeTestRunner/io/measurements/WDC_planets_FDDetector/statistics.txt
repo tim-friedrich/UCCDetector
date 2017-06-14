@@ -4,6 +4,6 @@ Config:
 	algorithm: FDDETECTOR
 	dataset: WDC_planets.csv
 
-Runtime: 483
+Runtime: 192
 
 Results: 66
