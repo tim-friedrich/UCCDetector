@@ -4,6 +4,6 @@ Config:
 	algorithm: FDDETECTOR
 	dataset: WDC_game.csv
 
-Runtime: 15
+Runtime: 26
 
-Results: 71
+Results: 30

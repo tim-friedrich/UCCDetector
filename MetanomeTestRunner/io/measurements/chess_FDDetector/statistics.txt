@@ -4,6 +4,6 @@ Config:
 	algorithm: FDDETECTOR
 	dataset: chess.csv
 
-Runtime: 867
+Runtime: 1153
 
-Results: 0
+Results: 1

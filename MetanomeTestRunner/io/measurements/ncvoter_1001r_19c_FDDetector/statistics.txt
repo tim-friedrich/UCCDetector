@@ -4,6 +4,6 @@ Config:
 	algorithm: FDDETECTOR
 	dataset: ncvoter_1001r_19c.csv
 
-Runtime: 813859
+Runtime: 763
 
-Results: 775
+Results: 17

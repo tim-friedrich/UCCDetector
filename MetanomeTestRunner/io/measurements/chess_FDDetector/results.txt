@@ -1,0 +1,1 @@
+[chess.csv.column1, chess.csv.column2, chess.csv.column3, chess.csv.column4, chess.csv.column5, chess.csv.column6]->chess.csv.column7

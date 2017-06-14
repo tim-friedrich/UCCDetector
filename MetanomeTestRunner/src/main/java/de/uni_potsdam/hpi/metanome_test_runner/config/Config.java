@@ -69,7 +69,7 @@ public class Config {
 	}
 	
 	public Config() {
-		this(Config.Algorithm.FDDETECTOR, Config.Dataset.VOTER);
+		this(Config.Algorithm.FDDETECTOR, Config.Dataset.PLANETS);
 	}
 
 	public Config(Config.Algorithm algorithm, Config.Dataset dataset) {
