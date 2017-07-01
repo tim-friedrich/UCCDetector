@@ -1,0 +1,9 @@
+de.metanome.algorithms.inddetector.INDDetector
+
+Config:
+	algorithm: INDDETECTOR
+	dataset: WDC_astronomical.csv
+
+Runtime: 97440
+
+Results: 0

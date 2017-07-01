@@ -5,7 +5,7 @@ import java.io.File;
 public class Config {
 
 	public enum Algorithm {
-		FDDETECTOR
+		INDDETECTOR
 	}
 	
 	public enum Dataset {
@@ -69,12 +69,13 @@ public class Config {
 	}
 	
 	public Config() {
-		this(Config.Algorithm.FDDETECTOR, Config.Dataset.PLANETS);
+		this(Config.Algorithm.INDDETECTOR, Config.Dataset.PLANETS);
 	}
 
 	public Config(Config.Algorithm algorithm, Config.Dataset dataset) {
 		this.algorithm = algorithm;
 		this.setDataset(dataset);
+		//this.setDataset(Config.Dataset.VOTER);
 	}
 
 	@Override

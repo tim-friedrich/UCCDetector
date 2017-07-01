@@ -34,7 +34,6 @@ public class FDDetectorAlgorithm {
 	protected List<List<String>> records;
 	Map<ColumnCombinationBitset, ColumnCombinationBitset> C;
 	List<FunctionalDependency> results;
-	Map<String, ArrayList> pruns = new HashMap<String, ArrayList>();
 	protected String someStringParameter;
 	protected Integer someIntegerParameter;
 	private Integer depth = 0;
@@ -102,13 +101,9 @@ public class FDDetectorAlgorithm {
 				L.add(bitSet);
 			}
 			
-			while(!L.isEmpty()){
-				
-				L = computeDependencies(L);
-				//System.out.println(results.size());
-				L = prune(L);
-				
-				//System.out.println(results);
+			while(!L.isEmpty()){				
+				computeDependencies(L);
+				prune(L);
 				depth++;
 				L = generateNextLevel(L, depth);
 			}
@@ -125,7 +120,9 @@ public class FDDetectorAlgorithm {
 					continue;
 				}
 				for(ColumnCombinationBitset a : Li.getContainedOneColumnCombinations()){
-					value.intersect(C.get(Li.minus(a)));
+					ColumnCombinationBitset new_c = C.get(Li.minus(a));
+					if(new_c != null)
+						value.intersect(new_c);
 				}
 				C.put(Li, value);
 			}
@@ -203,51 +200,6 @@ public class FDDetectorAlgorithm {
 			return L;
 		}
 		
-		private boolean isKey(ColumnCombinationBitset Li){
-			int numFds = 0;
-			System.out.println(depth);
-			int i=0;
-			ColumnCombination comb = Li.createColumnCombination(this.relationName, this.columnNames);
-			//comb.getColumnIdentifiers().
-			//comb.getColumnIdentifiers().re;
-			//System.out.println(comb);
-			
-			for(FunctionalDependency fd : this.results){
-				
-				
-				
-				Iterator<ColumnIdentifier> it1 = comb.getColumnIdentifiers().iterator();
-				Iterator<ColumnIdentifier> it2 = fd.getDeterminant().getColumnIdentifiers().iterator();
-				boolean result = true;
-				while(it1.hasNext() && it2.hasNext()){
-					ColumnIdentifier id1 = it1.next();
-					ColumnIdentifier id2 = it2.next();
-					if(!id1.toString().equals(id2.toString())){
-						result = false;
-					}
-				}
-				if(result){
-					numFds++;
-				}
-				
-				
-//				if(fd.getDeterminant().getColumnIdentifiers().equals(comb.getColumnIdentifiers())){
-//					numFds++;
-//				}
-//				if(comb.getColumnIdentifiers().size() == 1){
-//					System.out.println(comb);
-//					System.out.println(fd);
-//				}
-				i++;
-//				System.out.println(comb);
-//				System.out.println(fd);
-				if(fd.getDeterminant().getColumnIdentifiers().containsAll(comb.getColumnIdentifiers())){
-					
-				}
-			}
-//			System.out.println(numFds);
-			return numFds >= this.columnNames.size()-1;
-		}
 		
 		private List<ColumnCombinationBitset> generateNextLevel(List<ColumnCombinationBitset> L, int depth){
 			if(depth <= 1){
@@ -272,8 +224,6 @@ public class FDDetectorAlgorithm {
 					return false;
 				}
 			}
-		    //System.out.println(Li.getSetBits());
-		    //System.out.println(Ly.getSetBits());
 			return true;
 		}
 		
@@ -301,123 +251,6 @@ public class FDDetectorAlgorithm {
 			}
 			return true;
 		}
-	// generates results
-
-//	protected List<FunctionalDependency> generateResults() {
-//		this.results = new ArrayList<>();
-//		this.pruns = new HashMap<>();
-//		
-//		List<FunctionalDependency> functionalDependencies = null;
-//		Boolean bottomUp = true;
-//		Integer bottomDepth = 0;
-//		Integer topDepth = this.columnNames.size();
-//		superBitset = new ColumnCombinationBitset();
-//		ArrayList<Integer> depths = new ArrayList<Integer>();
-//		for(int i=0; i<this.columnNames.size(); i++){
-//			superBitset.addColumn(i);
-//			depths.add(i);
-//		}
-//		
-//		System.out.println(superBitset.getNSubsetColumnCombinations(2));
-//		while(true){
-//			int idx = new Random().nextInt(depths.size());
-//			depth = depths.get(idx);
-//			depths.remove(idx);
-//			functionalDependencies = getPossibleFDsFor(depth);
-//			System.out.println("processing depth: "+depth+" With "+functionalDependencies.size()+" Elements");
-//			
-//			//getNextColumnCombination(depth);
-//			if(depths.size() <= 0){
-//				break;
-//			}
-//			for(FunctionalDependency functionalDependency : functionalDependencies){
-//				Boolean isDependant = checkDependencyFor(functionalDependency);
-//				
-//				//this will not work on all datasets
-//				if(isDependant){
-//					//System.out.println(results);
-//					this.results.add(functionalDependency);
-//				} else if(!isDependant){
-//					this.pruns.put(functionalDependency.getDependant().toString(), functionalDependency.getDeterminant())
-//				}
-//			}
-//			//System.out.println(bottomUp);
-//			//System.out.println(results);
-//			bottomUp = !bottomUp;
-//			
-//		}
-//		cleanUpResults();
-//		System.out.println("Number Results: "+ results.size());
-//		return results;
-//		
-//	}
-	
-	private void cleanUpResults(){
-		List<FunctionalDependency> removables = new ArrayList<FunctionalDependency>();
-		for(int i=0; i<this.results.size();i++){
-			FunctionalDependency fd1 = this.results.get(i);
-			for(int y=0; y<this.results.size();y++){
-				FunctionalDependency fd2 = this.results.get(y);
-				if(fd1.getDependant().equals(fd2.getDependant()) && 
-						fd1.getDeterminant().getColumnIdentifiers().size() < fd2.getDeterminant().getColumnIdentifiers().size() &&
-						fd2.getDeterminant().getColumnIdentifiers().containsAll(fd1.getDeterminant().getColumnIdentifiers())){
-					removables.add(fd2);
-				
-				}
-			}
-		}
-	
-		this.results.removeAll(removables);
-	}
-	
-	private boolean checkDependencyFor(FunctionalDependency functionalDep){
-		
-		Set<ColumnIdentifier> DetIdentifiers = functionalDep.getDeterminant().getColumnIdentifiers();
-		Map<String, String> resultMap = new HashMap<String, String>();
-		for(List<String> record : this.records){
-			String key = "";
-			for(ColumnIdentifier identifier : DetIdentifiers){
-				String value = record.get(this.columnNames.indexOf(identifier.getColumnIdentifier()));
-				if(value == null){
-					value = "null";
-				}
-				key += value;
-			}
-			
-			String dependantVal = record.get(this.columnNames.indexOf(functionalDep.getDependant().getColumnIdentifier()));
-			if(dependantVal == null){
-				dependantVal = "null";
-			}
-			if(resultMap.containsKey(key) && !resultMap.get(key).equals(dependantVal)){
-				return false;
-			}
-			resultMap.put(key, dependantVal);
-		}
-		return true;
-	}
-
-	private List<FunctionalDependency> getPossibleFDsFor(Integer dep){
-		List<FunctionalDependency> combinations = new ArrayList<FunctionalDependency>();
-		List<ColumnCombinationBitset> bitCombs = superBitset.getNSubsetColumnCombinations(depth);
-		System.out.println(bitCombs.size());
-		for(ColumnCombinationBitset bitComb : bitCombs){
-			ColumnCombination comb = bitComb.createColumnCombination(this.relationName, this.columnNames);
-			for(int y=0; y<this.columnNames.size(); y++){
-				ColumnIdentifier identifier = new ColumnIdentifier(this.relationName, this.columnNames.get(y));
-				if(!comb.getColumnIdentifiers().contains(identifier)){
-					FunctionalDependency fd = new FunctionalDependency(
-							comb, 
-							identifier);
-				
-					if(notProne(fd)){
-						combinations.add(fd);
-					}
-				}
-			}
-		}
-		return combinations;
-	}
-	
 	
 	// prones single Column Combinations. proning is done just in place to increase the performance
 	// returns false if a found ucc is a subset of the given column combination
@@ -431,34 +264,10 @@ public class FDDetectorAlgorithm {
 					fd.getDependant().equals(resultFd.getDependant()))
 				return false;
 		}
-//		for(FunctionalDependency pronedFd : this.pruns){
-//			// to be improved
-//			if(fd.getDependant().equals(pronedFd.getDependant()) && 
-//					pronedFd.getDeterminant().getColumnIdentifiers().containsAll(fd.getDeterminant().getColumnIdentifiers()))
-//				return false;
-//		}
+
 		return true;
 	}
 	
-	// checks if the columns have the same prefix
-	private boolean samePrefix(ColumnCombination comb1, ColumnCombination comb2, Integer dep){
-		Iterator<ColumnIdentifier> comb1Iterator = comb1.getColumnIdentifiers().iterator();
-		Iterator<ColumnIdentifier> comb2Iterator = comb2.getColumnIdentifiers().iterator();
-		int i = 0;
-		
-		boolean result = true;
-		// check for same prefix until depth size
-		while(comb1Iterator.hasNext() && comb2Iterator.hasNext() && i < dep-1){
-			ColumnIdentifier identifier1 = comb1Iterator.next();
-			ColumnIdentifier identifier2 = comb2Iterator.next();
-
-			if(!identifier1.equals(identifier2)){
-				result = false;
-			}
-			i++;
-		}
-		return result;
-	}
 	
 	protected void emit(List<FunctionalDependency> results) throws CouldNotReceiveResultException, ColumnNameMismatchException {
 		for (FunctionalDependency od : results)

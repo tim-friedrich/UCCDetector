@@ -13,10 +13,11 @@ import de.metanome.algorithm_integration.input.InputGenerationException;
 import de.metanome.algorithm_integration.input.RelationalInput;
 import de.metanome.algorithm_integration.input.RelationalInputGenerator;
 import de.metanome.algorithm_integration.results.FunctionalDependency;
+import de.metanome.algorithm_integration.results.InclusionDependency;
 import de.metanome.algorithm_integration.results.OrderDependency;
 import de.metanome.algorithm_integration.results.Result;
 import de.metanome.algorithm_integration.results.UniqueColumnCombination;
-import de.metanome.algorithms.fddetector.FDDetector;
+import de.metanome.algorithms.inddetector.INDDetector;
 import de.metanome.backend.input.file.DefaultFileInputGenerator;
 import de.metanome.backend.result_receiver.ResultCache;
 import de.uni_potsdam.hpi.metanome_test_runner.config.Config;
@@ -24,7 +25,7 @@ import de.uni_potsdam.hpi.metanome_test_runner.utils.FileUtils;
 
 public class MetanomeMock {
 
-	public static void execute(Config conf) {
+	public static void execute(Config conf, Config conf2) {
 		try {
 			RelationalInputGenerator inputGenerator = new DefaultFileInputGenerator(new ConfigurationSettingFileInput(
 					conf.inputFolderPath + conf.inputDatasetName + conf.inputFileEnding, true,
@@ -32,17 +33,23 @@ public class MetanomeMock {
 					conf.inputFileIgnoreLeadingWhiteSpace, conf.inputFileSkipLines, conf.inputFileHasHeader, 
 					conf.inputFileSkipDifferingLines, conf.inputFileNullString));
 			
+			RelationalInputGenerator inputGenerator2 = new DefaultFileInputGenerator(new ConfigurationSettingFileInput(
+					conf.inputFolderPath + conf2.inputDatasetName + conf.inputFileEnding, true,
+					conf.inputFileSeparator, conf.inputFileQuotechar, conf.inputFileEscape, conf.inputFileStrictQuotes, 
+					conf.inputFileIgnoreLeadingWhiteSpace, conf.inputFileSkipLines, conf.inputFileHasHeader, 
+					conf.inputFileSkipDifferingLines, conf.inputFileNullString));
+			
 			ResultCache resultReceiver = new ResultCache("MetanomeMock", getAcceptedColumns(inputGenerator));
 			
-			FDDetector algorithm = new FDDetector();
-			algorithm.setRelationalInputConfigurationValue(FDDetector.Identifier.INPUT_GENERATOR.name(), inputGenerator);
+			INDDetector algorithm = new INDDetector();
+			algorithm.setRelationalInputConfigurationValue(INDDetector.Identifier.INPUT_GENERATOR.name(), inputGenerator, inputGenerator2);
 			algorithm.setResultReceiver(resultReceiver);
 			
 			long runtime = System.currentTimeMillis();
 			algorithm.execute();
 			runtime = System.currentTimeMillis() - runtime;
 			
-			writeResults(conf, resultReceiver, algorithm, runtime);
+			//writeResults(conf, resultReceiver, algorithm, runtime);
 		}
 		catch (AlgorithmExecutionException e) {
 			e.printStackTrace();
@@ -76,7 +83,7 @@ public class MetanomeMock {
 	private static String format(List<Result> results) {
 		StringBuilder builder = new StringBuilder();
 		for (Result result : results) {
-			FunctionalDependency fd = (FunctionalDependency) result;
+			InclusionDependency fd = (InclusionDependency) result;
 			builder.append(fd.toString() + "\r\n");
 		}
 		return builder.toString();

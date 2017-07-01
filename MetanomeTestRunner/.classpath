@@ -23,5 +23,6 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path="/FDDetector"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/INDDetector"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>

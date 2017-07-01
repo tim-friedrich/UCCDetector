@@ -1,0 +1,4 @@
+[ncvoter_1001r_19c.csv.middle_name][=[ncvoter_1001r_19c.csv.name_prefix]
+[ncvoter_1001r_19c.csv.first_name][=[ncvoter_1001r_19c.csv.gender]
+[ncvoter_1001r_19c.csv.middle_name][=[ncvoter_1001r_19c.csv.gender]
+[ncvoter_1001r_19c.csv.birth_place][=[ncvoter_1001r_19c.csv.state]

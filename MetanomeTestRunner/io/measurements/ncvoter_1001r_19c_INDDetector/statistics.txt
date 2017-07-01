@@ -1,0 +1,9 @@
+de.metanome.algorithms.inddetector.INDDetector
+
+Config:
+	algorithm: INDDETECTOR
+	dataset: ncvoter_1001r_19c.csv
+
+Runtime: 129
+
+Results: 4

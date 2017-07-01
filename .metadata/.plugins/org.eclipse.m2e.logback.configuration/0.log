@@ -2653,3 +2653,1072 @@
 2017-06-14 20:59:51,228 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/FDDetector/src/main/resources
 2017-06-14 20:59:51,228 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2017-06-14 20:59:51,228 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/FDDetector/src/test/resources
+2017-06-14 21:01:16,481 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-14 21:01:16,481 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/MetanomeTestRunner/src/main/resources
+2017-06-14 21:01:16,482 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-14 21:01:16,482 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/MetanomeTestRunner/src/test/resources
+2017-06-14 21:02:12,324 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-14 21:02:12,324 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/FDDetector/src/main/resources
+2017-06-14 21:02:12,324 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-14 21:02:12,324 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/FDDetector/src/test/resources
+2017-06-14 21:03:04,641 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-14 21:03:04,641 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/FDDetector/src/main/resources
+2017-06-14 21:03:04,641 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-14 21:03:04,642 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/FDDetector/src/test/resources
+2017-06-14 21:04:01,459 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-14 21:04:01,460 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/FDDetector/src/main/resources
+2017-06-14 21:04:01,460 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-14 21:04:01,460 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/FDDetector/src/test/resources
+2017-06-14 21:04:38,717 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-14 21:04:38,717 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/FDDetector/src/main/resources
+2017-06-14 21:04:38,718 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-14 21:04:38,718 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/FDDetector/src/test/resources
+2017-06-14 21:18:16,292 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-14 21:18:16,295 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/FDDetector/src/main/resources
+2017-06-14 21:18:16,296 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-14 21:18:16,296 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/FDDetector/src/test/resources
+2017-06-14 21:18:16,300 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-14 21:18:16,301 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/MetanomeTestRunner/src/main/resources
+2017-06-14 21:18:16,301 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-14 21:18:16,301 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/MetanomeTestRunner/src/test/resources
+2017-06-14 21:21:12,770 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-14 21:21:12,770 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/FDDetector/src/main/resources
+2017-06-14 21:21:12,771 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-14 21:21:12,771 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/FDDetector/src/test/resources
+2017-06-28 13:59:18,921 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-28 13:59:18,928 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/FDDetector/src/main/resources
+2017-06-28 13:59:18,931 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-28 13:59:18,931 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/FDDetector/src/test/resources
+2017-06-28 13:59:19,320 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-28 13:59:19,320 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/UCCDetector/src/main/resources
+2017-06-28 13:59:19,321 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-28 13:59:19,322 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/UCCDetector/src/test/resources
+2017-06-28 13:59:20,152 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-28 13:59:20,152 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/MetanomeTestRunner/src/main/resources
+2017-06-28 13:59:20,158 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-28 13:59:20,158 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/MetanomeTestRunner/src/test/resources
+2017-06-30 15:24:31,072 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/archetypes/maven-archetype-quickstart/1.1/maven-archetype-quickstart-1.1.jar
+2017-06-30 15:24:31,138 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/archetypes/maven-archetype-quickstart/1.1/maven-archetype-quickstart-1.1.jar
+2017-06-30 15:24:31,175 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/archetypes/maven-archetype-quickstart/1.1/maven-archetype-quickstart-1.1.pom
+2017-06-30 15:24:31,222 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/archetypes/maven-archetype-quickstart/1.1/maven-archetype-quickstart-1.1.pom
+2017-06-30 15:28:00,341 [Worker-52] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: de.metanome.algorithms.inddetector:INDDetector:1.1-SNAPSHOT @ /Users/Tim/Projekte/UCC/workspace/INDDetector/pom.xml.
+2017-06-30 15:28:02,236 [Worker-52] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /INDDetector/src/main/java
+2017-06-30 15:28:02,238 [Worker-52] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /INDDetector/src/test/java
+2017-06-30 15:28:02,335 [Worker-52] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 4 sec
+2017-06-30 15:28:03,405 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 15:28:03,405 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-06-30 15:28:03,408 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 15:28:03,409 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-06-30 15:28:50,929 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 15:28:50,929 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-06-30 15:28:50,930 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 15:28:50,931 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-06-30 15:29:20,719 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 15:29:20,719 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-06-30 15:29:20,722 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 15:29:20,722 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-06-30 15:29:33,383 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 15:29:33,384 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-06-30 15:29:33,385 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 15:29:33,385 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-06-30 15:32:18,480 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 15:32:18,481 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-06-30 15:32:18,482 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 15:32:18,483 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-06-30 15:33:41,503 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 15:33:41,504 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-06-30 15:33:41,506 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 15:33:41,506 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-06-30 15:34:18,024 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 15:34:18,024 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-06-30 15:34:18,026 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 15:34:18,026 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-06-30 15:35:22,795 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 15:35:22,796 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-06-30 15:35:22,801 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 15:35:22,802 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-06-30 15:38:12,652 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 15:38:12,653 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-06-30 15:38:12,654 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 15:38:12,654 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-06-30 15:38:39,021 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 15:38:39,021 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-06-30 15:38:39,022 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 15:38:39,023 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-06-30 15:39:05,667 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 15:39:05,668 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-06-30 15:39:05,668 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 15:39:05,669 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-06-30 15:39:28,507 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 15:39:28,507 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-06-30 15:39:28,508 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 15:39:28,508 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-06-30 15:39:42,788 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 15:39:42,788 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-06-30 15:39:42,789 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 15:39:42,789 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-06-30 15:41:39,831 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 15:41:39,832 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-06-30 15:41:39,833 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 15:41:39,833 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-06-30 15:41:51,380 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 15:41:51,380 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-06-30 15:41:51,381 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 15:41:51,381 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-06-30 15:42:34,547 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 15:42:34,547 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/MetanomeTestRunner/src/main/resources
+2017-06-30 15:42:34,550 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 15:42:34,550 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/MetanomeTestRunner/src/test/resources
+2017-06-30 15:43:06,727 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 15:43:06,727 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/MetanomeTestRunner/src/main/resources
+2017-06-30 15:43:06,728 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 15:43:06,728 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/MetanomeTestRunner/src/test/resources
+2017-06-30 15:43:34,415 [main] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache file is out-of-date. Remote download required.
+2017-06-30 15:44:56,635 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 15:44:56,635 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/MetanomeTestRunner/src/main/resources
+2017-06-30 15:44:56,640 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 15:44:56,640 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/MetanomeTestRunner/src/test/resources
+2017-06-30 15:45:07,488 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 15:45:07,488 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/MetanomeTestRunner/src/main/resources
+2017-06-30 15:45:07,489 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 15:45:07,490 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/MetanomeTestRunner/src/test/resources
+2017-06-30 15:45:14,954 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 15:45:14,955 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/MetanomeTestRunner/src/main/resources
+2017-06-30 15:45:14,956 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 15:45:14,956 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/MetanomeTestRunner/src/test/resources
+2017-06-30 15:46:27,343 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 15:46:27,344 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/MetanomeTestRunner/src/main/resources
+2017-06-30 15:46:27,345 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 15:46:27,345 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/MetanomeTestRunner/src/test/resources
+2017-06-30 15:46:36,826 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 15:46:36,826 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/MetanomeTestRunner/src/main/resources
+2017-06-30 15:46:36,827 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 15:46:36,827 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/MetanomeTestRunner/src/test/resources
+2017-06-30 15:55:10,651 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 15:55:10,652 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-06-30 15:55:10,653 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 15:55:10,653 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-06-30 15:55:21,271 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 15:55:21,272 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-06-30 15:55:21,273 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 15:55:21,273 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-06-30 15:56:34,107 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 15:56:34,108 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-06-30 15:56:34,109 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 15:56:34,109 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-06-30 15:57:49,365 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 15:57:49,366 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-06-30 15:57:49,369 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 15:57:49,369 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-06-30 15:57:56,980 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 15:57:56,980 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-06-30 15:57:56,981 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 15:57:56,981 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-06-30 16:01:45,382 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 16:01:45,382 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-06-30 16:01:45,383 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 16:01:45,384 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-06-30 16:01:51,367 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 16:01:51,368 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-06-30 16:01:51,369 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 16:01:51,369 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-06-30 16:02:05,130 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 16:02:05,131 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-06-30 16:02:05,132 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 16:02:05,132 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-06-30 16:04:59,557 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 16:04:59,557 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-06-30 16:04:59,558 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 16:04:59,558 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-06-30 16:09:28,998 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 16:09:28,999 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-06-30 16:09:29,003 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 16:09:29,003 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-06-30 16:09:42,942 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 16:09:42,942 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-06-30 16:09:42,944 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 16:09:42,944 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-06-30 16:29:37,317 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 16:29:37,318 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-06-30 16:29:37,320 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 16:29:37,320 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-06-30 16:30:11,775 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 16:30:11,775 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-06-30 16:30:11,776 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 16:30:11,776 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-06-30 16:30:55,213 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 16:30:55,214 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-06-30 16:30:55,216 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 16:30:55,217 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-06-30 16:31:05,160 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 16:31:05,160 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-06-30 16:31:05,161 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 16:31:05,161 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-06-30 16:32:20,899 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 16:32:20,901 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-06-30 16:32:20,902 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 16:32:20,902 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-06-30 16:33:04,536 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 16:33:04,537 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-06-30 16:33:04,537 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 16:33:04,538 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-06-30 16:33:13,975 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 16:33:13,976 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-06-30 16:33:13,977 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 16:33:13,977 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-06-30 16:33:28,861 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 16:33:28,861 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-06-30 16:33:28,863 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 16:33:28,863 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-06-30 16:33:58,630 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 16:33:58,630 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-06-30 16:33:58,631 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 16:33:58,631 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-06-30 16:34:19,088 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 16:34:19,088 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-06-30 16:34:19,089 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 16:34:19,089 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-06-30 16:35:23,331 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 16:35:23,332 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-06-30 16:35:23,332 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 16:35:23,332 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-06-30 16:37:02,266 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 16:37:02,266 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-06-30 16:37:02,267 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 16:37:02,267 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-06-30 16:37:15,591 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 16:37:15,591 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-06-30 16:37:15,592 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 16:37:15,592 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-06-30 16:37:39,816 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 16:37:39,816 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-06-30 16:37:39,817 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 16:37:39,817 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-06-30 16:37:57,982 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 16:37:57,982 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-06-30 16:37:57,983 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 16:37:57,983 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-06-30 16:37:59,355 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 16:37:59,355 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-06-30 16:37:59,357 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 16:37:59,358 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-06-30 16:41:04,182 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 16:41:04,183 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-06-30 16:41:04,184 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 16:41:04,184 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-06-30 16:41:22,798 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 16:41:22,798 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-06-30 16:41:22,799 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 16:41:22,799 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-06-30 16:43:29,012 [main] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: de.metanome.algorithms.uccdetector:UCCDetector:1.1-SNAPSHOT @ /Users/Tim/Projekte/UCC/workspace/UCCDetector/pom.xml.
+2017-06-30 16:44:08,560 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 16:44:08,560 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/UCCDetector/src/main/resources
+2017-06-30 16:44:08,561 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 16:44:08,561 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/UCCDetector/src/test/resources
+2017-06-30 16:44:10,100 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 16:44:10,100 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/UCCDetector/src/main/resources
+2017-06-30 16:44:10,101 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 16:44:10,101 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/UCCDetector/src/test/resources
+2017-06-30 16:44:58,245 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 16:44:58,246 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-06-30 16:44:58,247 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 16:44:58,247 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-06-30 16:45:48,855 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 16:45:48,855 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-06-30 16:45:48,856 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 16:45:48,857 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-06-30 16:45:58,728 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 16:45:58,728 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-06-30 16:45:58,728 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 16:45:58,728 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-06-30 16:46:11,563 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 16:46:11,563 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-06-30 16:46:11,565 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 16:46:11,565 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-06-30 16:49:10,331 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 16:49:10,332 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-06-30 16:49:10,333 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 16:49:10,333 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-06-30 16:49:38,933 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 16:49:38,934 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-06-30 16:49:38,934 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 16:49:38,934 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-06-30 16:58:48,353 [Worker-87] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-06-30 16:58:48,532 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 16:58:48,532 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-06-30 16:58:48,533 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 16:58:48,533 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-06-30 16:59:00,983 [Worker-94] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-06-30 16:59:01,001 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 16:59:01,002 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-06-30 16:59:01,003 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 16:59:01,003 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-06-30 17:00:13,893 [Worker-95] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-06-30 17:00:13,903 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 17:00:13,903 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-06-30 17:00:13,904 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 17:00:13,905 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-06-30 17:00:15,794 [Worker-95] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-06-30 17:00:15,799 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 17:00:15,800 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-06-30 17:00:15,800 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 17:00:15,800 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-06-30 17:00:30,136 [Worker-88] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-06-30 17:00:30,142 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 17:00:30,143 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-06-30 17:00:30,144 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 17:00:30,144 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-06-30 17:01:47,130 [Worker-94] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-06-30 17:01:47,138 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 17:01:47,139 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-06-30 17:01:47,139 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 17:01:47,140 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-06-30 17:04:21,081 [Worker-95] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-06-30 17:04:21,087 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 17:04:21,088 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-06-30 17:04:21,088 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 17:04:21,089 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-06-30 17:04:39,611 [Worker-93] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-06-30 17:04:39,622 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 17:04:39,622 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-06-30 17:04:39,623 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 17:04:39,623 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-06-30 17:05:10,597 [Worker-87] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-06-30 17:05:10,600 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 17:05:10,600 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-06-30 17:05:10,601 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 17:05:10,601 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-06-30 17:05:22,387 [Worker-93] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-06-30 17:05:22,392 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 17:05:22,392 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-06-30 17:05:22,392 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 17:05:22,392 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-06-30 17:07:44,118 [Worker-93] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-06-30 17:07:44,132 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 17:07:44,133 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-06-30 17:07:44,133 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 17:07:44,133 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-06-30 17:07:47,067 [Worker-95] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-06-30 17:07:47,073 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 17:07:47,073 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-06-30 17:07:47,074 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 17:07:47,074 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-06-30 17:09:04,467 [Worker-88] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-06-30 17:09:04,471 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 17:09:04,471 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-06-30 17:09:04,472 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 17:09:04,472 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-06-30 17:09:27,265 [Worker-95] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-06-30 17:09:27,269 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 17:09:27,269 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-06-30 17:09:27,270 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 17:09:27,270 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-06-30 17:10:00,655 [Worker-98] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-06-30 17:10:00,662 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 17:10:00,663 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-06-30 17:10:00,663 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 17:10:00,663 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-06-30 17:10:09,087 [Worker-96] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-06-30 17:10:09,093 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 17:10:09,093 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-06-30 17:10:09,094 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 17:10:09,094 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-06-30 17:10:24,416 [Worker-94] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-06-30 17:10:24,419 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 17:10:24,420 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-06-30 17:10:24,420 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 17:10:24,420 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-06-30 17:11:06,696 [Worker-88] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-06-30 17:11:06,701 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 17:11:06,701 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-06-30 17:11:06,701 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 17:11:06,701 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-06-30 17:11:32,004 [Worker-98] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-06-30 17:11:32,009 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 17:11:32,009 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-06-30 17:11:32,011 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 17:11:32,011 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-06-30 17:12:09,896 [Worker-96] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-06-30 17:12:09,902 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 17:12:09,903 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-06-30 17:12:09,904 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 17:12:09,904 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-06-30 17:12:30,258 [Worker-94] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-06-30 17:12:30,262 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 17:12:30,263 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-06-30 17:12:30,263 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 17:12:30,263 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-06-30 17:12:32,742 [Worker-94] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-06-30 17:12:32,745 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 17:12:32,746 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-06-30 17:12:32,746 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 17:12:32,746 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-06-30 17:14:44,483 [Worker-93] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-06-30 17:14:44,494 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 17:14:44,494 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-06-30 17:14:44,495 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 17:14:44,495 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-06-30 17:15:20,579 [Worker-97] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-06-30 17:15:20,582 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 17:15:20,583 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-06-30 17:15:20,583 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 17:15:20,583 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-06-30 17:16:20,678 [Worker-87] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-06-30 17:16:20,684 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 17:16:20,684 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-06-30 17:16:20,685 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 17:16:20,685 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-06-30 17:17:18,326 [Worker-93] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-06-30 17:17:18,333 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 17:17:18,334 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-06-30 17:17:18,335 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 17:17:18,335 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-06-30 17:17:30,204 [Worker-93] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-06-30 17:17:30,211 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 17:17:30,211 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-06-30 17:17:30,212 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 17:17:30,212 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-06-30 17:20:59,999 [Worker-87] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-06-30 17:21:00,008 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 17:21:00,008 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-06-30 17:21:00,009 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 17:21:00,009 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-06-30 17:21:46,473 [Worker-98] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-06-30 17:21:46,478 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 17:21:46,479 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-06-30 17:21:46,480 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 17:21:46,480 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-06-30 17:23:56,614 [Worker-100] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-06-30 17:23:56,619 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 17:23:56,620 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-06-30 17:23:56,620 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 17:23:56,621 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-06-30 17:24:05,943 [Worker-100] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-06-30 17:24:05,946 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 17:24:05,946 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-06-30 17:24:05,947 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 17:24:05,947 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-06-30 17:24:44,912 [Worker-93] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-06-30 17:24:44,916 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 17:24:44,916 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-06-30 17:24:44,919 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 17:24:44,919 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-06-30 17:24:58,588 [Worker-87] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-06-30 17:24:58,594 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 17:24:58,594 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-06-30 17:24:58,595 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 17:24:58,595 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-06-30 17:45:30,166 [Worker-105] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-06-30 17:45:30,176 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 17:45:30,176 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/FDDetector/src/main/resources
+2017-06-30 17:45:30,177 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 17:45:30,177 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/FDDetector/src/test/resources
+2017-06-30 17:45:30,180 [Worker-105] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-06-30 17:45:30,184 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 17:45:30,184 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-06-30 17:45:30,185 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 17:45:30,185 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-06-30 17:45:30,188 [Worker-105] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-06-30 17:45:30,191 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 17:45:30,191 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/MetanomeTestRunner/src/main/resources
+2017-06-30 17:45:30,193 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 17:45:30,193 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/MetanomeTestRunner/src/test/resources
+2017-06-30 17:46:22,827 [Worker-101] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-06-30 17:46:22,836 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 17:46:22,836 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-06-30 17:46:22,837 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 17:46:22,838 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-06-30 17:48:51,445 [Worker-105] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-06-30 17:48:51,449 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 17:48:51,449 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-06-30 17:48:51,450 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 17:48:51,450 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-06-30 17:53:53,408 [Worker-101] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-06-30 17:53:53,414 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 17:53:53,414 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-06-30 17:53:53,414 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 17:53:53,414 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-06-30 17:54:00,564 [Worker-105] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-06-30 17:54:00,568 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 17:54:00,568 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-06-30 17:54:00,568 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 17:54:00,568 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-06-30 18:21:31,749 [Worker-116] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-06-30 18:21:31,759 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 18:21:31,759 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-06-30 18:21:31,760 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 18:21:31,761 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-06-30 18:24:53,755 [Worker-117] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-06-30 18:24:53,766 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 18:24:53,767 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/MetanomeTestRunner/src/main/resources
+2017-06-30 18:24:53,768 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 18:24:53,769 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/MetanomeTestRunner/src/test/resources
+2017-06-30 18:25:56,116 [Worker-116] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-06-30 18:25:56,124 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 18:25:56,124 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/MetanomeTestRunner/src/main/resources
+2017-06-30 18:25:56,126 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 18:25:56,126 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/MetanomeTestRunner/src/test/resources
+2017-06-30 18:26:22,651 [Worker-112] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-06-30 18:26:22,657 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 18:26:22,657 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/MetanomeTestRunner/src/main/resources
+2017-06-30 18:26:22,657 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 18:26:22,657 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/MetanomeTestRunner/src/test/resources
+2017-06-30 18:31:08,642 [Worker-121] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-06-30 18:31:08,650 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 18:31:08,651 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/MetanomeTestRunner/src/main/resources
+2017-06-30 18:31:08,651 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 18:31:08,651 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/MetanomeTestRunner/src/test/resources
+2017-06-30 18:35:51,023 [Worker-122] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-06-30 18:35:51,030 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 18:35:51,030 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/MetanomeTestRunner/src/main/resources
+2017-06-30 18:35:51,030 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 18:35:51,030 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/MetanomeTestRunner/src/test/resources
+2017-06-30 18:35:58,277 [Worker-124] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-06-30 18:35:58,283 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 18:35:58,283 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/MetanomeTestRunner/src/main/resources
+2017-06-30 18:35:58,285 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 18:35:58,285 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/MetanomeTestRunner/src/test/resources
+2017-06-30 18:36:28,815 [Worker-107] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-06-30 18:36:28,819 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 18:36:28,819 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/MetanomeTestRunner/src/main/resources
+2017-06-30 18:36:28,821 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 18:36:28,821 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/MetanomeTestRunner/src/test/resources
+2017-06-30 18:42:50,343 [Worker-122] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-06-30 18:42:50,369 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 18:42:50,369 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-06-30 18:42:50,371 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 18:42:50,371 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-06-30 18:43:32,797 [Worker-125] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-06-30 18:43:32,802 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 18:43:32,802 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-06-30 18:43:32,803 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 18:43:32,803 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-06-30 18:43:40,106 [Worker-107] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-06-30 18:43:40,145 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 18:43:40,145 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-06-30 18:43:40,145 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 18:43:40,146 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-06-30 18:43:42,550 [Worker-112] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-06-30 18:43:42,560 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 18:43:42,560 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-06-30 18:43:42,561 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 18:43:42,561 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-06-30 18:44:20,802 [Worker-125] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-06-30 18:44:20,813 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 18:44:20,814 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-06-30 18:44:20,815 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 18:44:20,815 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-06-30 18:44:45,794 [Worker-125] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-06-30 18:44:45,801 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 18:44:45,801 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-06-30 18:44:45,802 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 18:44:45,802 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-06-30 18:44:58,379 [Worker-125] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-06-30 18:44:58,385 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 18:44:58,385 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-06-30 18:44:58,386 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 18:44:58,386 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-06-30 18:45:07,392 [Worker-107] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-06-30 18:45:07,398 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 18:45:07,398 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-06-30 18:45:07,401 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 18:45:07,402 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-06-30 18:46:10,557 [Worker-122] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-06-30 18:46:10,566 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 18:46:10,566 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-06-30 18:46:10,567 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 18:46:10,567 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-06-30 18:47:47,746 [Worker-107] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-06-30 18:47:47,825 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 18:47:47,825 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-06-30 18:47:47,830 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 18:47:47,830 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-06-30 18:49:17,014 [Worker-112] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-06-30 18:49:17,021 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 18:49:17,021 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-06-30 18:49:17,021 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 18:49:17,021 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-06-30 18:49:21,113 [Worker-107] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-06-30 18:49:21,118 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 18:49:21,119 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-06-30 18:49:21,120 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 18:49:21,120 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-06-30 18:50:57,573 [Worker-122] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-06-30 18:50:57,592 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 18:50:57,592 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-06-30 18:50:57,593 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 18:50:57,593 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-06-30 18:52:00,323 [Worker-126] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-06-30 18:52:00,342 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 18:52:00,342 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-06-30 18:52:00,343 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 18:52:00,343 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-06-30 18:52:33,297 [Worker-122] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-06-30 18:52:33,304 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 18:52:33,304 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-06-30 18:52:33,305 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 18:52:33,306 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-06-30 18:52:44,833 [Worker-125] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-06-30 18:52:44,839 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 18:52:44,839 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-06-30 18:52:44,840 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 18:52:44,840 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-06-30 18:53:09,791 [Worker-125] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-06-30 18:53:09,796 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 18:53:09,796 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-06-30 18:53:09,796 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 18:53:09,796 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-06-30 18:54:01,401 [Worker-126] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-06-30 18:54:01,412 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 18:54:01,412 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-06-30 18:54:01,413 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 18:54:01,413 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-06-30 18:54:21,086 [Worker-116] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-06-30 18:54:21,092 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 18:54:21,093 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-06-30 18:54:21,093 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 18:54:21,093 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-06-30 18:54:25,058 [Worker-107] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-06-30 18:54:25,064 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 18:54:25,064 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-06-30 18:54:25,065 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 18:54:25,065 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-06-30 18:54:39,722 [Worker-112] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-06-30 18:54:39,730 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 18:54:39,731 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-06-30 18:54:39,736 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 18:54:39,737 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-06-30 18:56:03,307 [Worker-116] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-06-30 18:56:03,315 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 18:56:03,316 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-06-30 18:56:03,317 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 18:56:03,317 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-06-30 18:56:29,668 [Worker-125] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-06-30 18:56:29,673 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 18:56:29,673 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-06-30 18:56:29,673 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 18:56:29,673 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-06-30 18:57:29,080 [Worker-125] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-06-30 18:57:29,090 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 18:57:29,090 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-06-30 18:57:29,091 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 18:57:29,091 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-06-30 18:57:35,673 [Worker-116] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-06-30 18:57:35,677 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 18:57:35,677 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-06-30 18:57:35,678 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 18:57:35,678 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-06-30 18:57:48,933 [Worker-116] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-06-30 18:57:48,938 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 18:57:48,938 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-06-30 18:57:48,939 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 18:57:48,940 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-06-30 18:59:29,321 [Worker-122] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-06-30 18:59:29,329 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 18:59:29,329 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-06-30 18:59:29,330 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 18:59:29,330 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-06-30 19:00:10,759 [Worker-107] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-06-30 19:00:10,764 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 19:00:10,764 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-06-30 19:00:10,764 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 19:00:10,765 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-06-30 19:00:47,430 [Worker-112] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-06-30 19:00:47,442 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 19:00:47,442 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-06-30 19:00:47,444 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 19:00:47,444 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-06-30 19:01:16,190 [Worker-107] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-06-30 19:01:16,198 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 19:01:16,198 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-06-30 19:01:16,199 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 19:01:16,199 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-06-30 19:01:50,721 [Worker-107] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-06-30 19:01:50,730 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 19:01:50,730 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-06-30 19:01:50,731 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 19:01:50,732 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-06-30 19:01:52,781 [Worker-112] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-06-30 19:01:52,789 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 19:01:52,789 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-06-30 19:01:52,790 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 19:01:52,791 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-06-30 19:02:24,051 [Worker-112] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-06-30 19:02:24,057 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 19:02:24,057 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-06-30 19:02:24,058 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 19:02:24,058 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-06-30 20:01:55,092 [Worker-137] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-06-30 20:01:55,116 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 20:01:55,116 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-06-30 20:01:55,117 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 20:01:55,117 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-06-30 20:02:11,028 [Worker-136] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-06-30 20:02:11,033 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 20:02:11,034 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-06-30 20:02:11,035 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 20:02:11,035 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-06-30 20:02:18,235 [Worker-135] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-06-30 20:02:18,270 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 20:02:18,270 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-06-30 20:02:18,271 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 20:02:18,271 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-06-30 20:05:36,491 [Worker-137] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-06-30 20:05:36,496 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 20:05:36,496 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-06-30 20:05:36,496 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 20:05:36,496 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-06-30 20:05:46,582 [Worker-139] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-06-30 20:05:46,587 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 20:05:46,587 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-06-30 20:05:46,588 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-30 20:05:46,588 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-07-01 11:11:18,731 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 11:11:18,735 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/FDDetector/src/main/resources
+2017-07-01 11:11:18,738 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 11:11:18,738 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/FDDetector/src/test/resources
+2017-07-01 11:11:22,133 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: de.metanome.algorithms.inddetector:INDDetector:1.1-SNAPSHOT @ /Users/Tim/Projekte/UCC/workspace/INDDetector/pom.xml.
+2017-07-01 11:11:22,407 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 11:11:22,407 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-07-01 11:11:22,409 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 11:11:22,409 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-07-01 11:11:22,825 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 11:11:22,825 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/UCCDetector/src/main/resources
+2017-07-01 11:11:22,828 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 11:11:22,828 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/UCCDetector/src/test/resources
+2017-07-01 11:11:23,794 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 11:11:23,794 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/MetanomeTestRunner/src/main/resources
+2017-07-01 11:11:23,795 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 11:11:23,796 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/MetanomeTestRunner/src/test/resources
+2017-07-01 11:12:16,321 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 11:12:16,321 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-07-01 11:12:16,322 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 11:12:16,323 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-07-01 11:12:28,528 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 11:12:28,528 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-07-01 11:12:28,530 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 11:12:28,530 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-07-01 11:12:49,891 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 11:12:49,891 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-07-01 11:12:49,892 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 11:12:49,893 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-07-01 11:13:25,603 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 11:13:25,603 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-07-01 11:13:25,607 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 11:13:25,607 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-07-01 11:13:34,171 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 11:13:34,171 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-07-01 11:13:34,175 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 11:13:34,175 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-07-01 11:13:41,312 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 11:13:41,313 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-07-01 11:13:41,314 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 11:13:41,314 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-07-01 11:13:51,658 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 11:13:51,658 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-07-01 11:13:51,659 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 11:13:51,660 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-07-01 11:15:59,577 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 11:15:59,577 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-07-01 11:15:59,579 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 11:15:59,579 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-07-01 11:16:04,248 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 11:16:04,248 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-07-01 11:16:04,249 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 11:16:04,250 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-07-01 11:16:42,981 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 11:16:42,982 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-07-01 11:16:42,983 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 11:16:42,983 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-07-01 11:16:54,201 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 11:16:54,201 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-07-01 11:16:54,202 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 11:16:54,202 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-07-01 11:17:24,939 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 11:17:24,940 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-07-01 11:17:24,947 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 11:17:24,947 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-07-01 11:18:51,131 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 11:18:51,132 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-07-01 11:18:51,134 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 11:18:51,134 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-07-01 11:19:00,843 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 11:19:00,844 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-07-01 11:19:00,845 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 11:19:00,845 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-07-01 11:19:17,790 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 11:19:17,790 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-07-01 11:19:17,792 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 11:19:17,793 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-07-01 11:19:24,681 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 11:19:24,682 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-07-01 11:19:24,682 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 11:19:24,683 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-07-01 11:19:29,720 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 11:19:29,720 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-07-01 11:19:29,721 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 11:19:29,721 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-07-01 11:23:08,976 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 11:23:08,976 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-07-01 11:23:08,977 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 11:23:08,977 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-07-01 11:23:31,327 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 11:23:31,327 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-07-01 11:23:31,328 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 11:23:31,328 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-07-01 11:23:40,633 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 11:23:40,633 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-07-01 11:23:40,634 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 11:23:40,634 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-07-01 11:25:35,902 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 11:25:35,903 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-07-01 11:25:35,903 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 11:25:35,903 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-07-01 11:26:34,691 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 11:26:34,691 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-07-01 11:26:34,692 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 11:26:34,693 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-07-01 11:27:05,924 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 11:27:05,924 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-07-01 11:27:05,925 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 11:27:05,925 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-07-01 11:28:24,571 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 11:28:24,572 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-07-01 11:28:24,573 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 11:28:24,573 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-07-01 11:29:52,674 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 11:29:52,674 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-07-01 11:29:52,675 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 11:29:52,675 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-07-01 11:31:33,204 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 11:31:33,205 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-07-01 11:31:33,205 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 11:31:33,205 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-07-01 11:31:36,645 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 11:31:36,645 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-07-01 11:31:36,646 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 11:31:36,647 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-07-01 11:39:06,945 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 11:39:06,945 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-07-01 11:39:06,946 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 11:39:06,946 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-07-01 11:47:07,561 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 11:47:07,561 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-07-01 11:47:07,562 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 11:47:07,562 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-07-01 11:47:44,174 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 11:47:44,174 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-07-01 11:47:44,175 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 11:47:44,175 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-07-01 11:48:11,341 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 11:48:11,342 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-07-01 11:48:11,343 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 11:48:11,343 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-07-01 11:48:15,037 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 11:48:15,037 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-07-01 11:48:15,038 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 11:48:15,038 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-07-01 11:48:19,273 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 11:48:19,273 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-07-01 11:48:19,274 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 11:48:19,274 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-07-01 11:48:50,680 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 11:48:50,680 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-07-01 11:48:50,681 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 11:48:50,681 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-07-01 11:48:52,716 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 11:48:52,716 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-07-01 11:48:52,717 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 11:48:52,717 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-07-01 11:51:35,749 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 11:51:35,749 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-07-01 11:51:35,750 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 11:51:35,750 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-07-01 11:51:59,632 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 11:51:59,632 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-07-01 11:51:59,633 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 11:51:59,633 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-07-01 11:52:08,811 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 11:52:08,811 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-07-01 11:52:08,812 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 11:52:08,813 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-07-01 11:53:45,004 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 11:53:45,004 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-07-01 11:53:45,006 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 11:53:45,007 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-07-01 11:53:59,319 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 11:53:59,319 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-07-01 11:53:59,320 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 11:53:59,320 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-07-01 11:54:39,438 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 11:54:39,438 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-07-01 11:54:39,439 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 11:54:39,440 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-07-01 11:54:47,596 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 11:54:47,596 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-07-01 11:54:47,597 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 11:54:47,597 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-07-01 11:55:01,930 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 11:55:01,930 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-07-01 11:55:01,931 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 11:55:01,931 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-07-01 11:56:18,351 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 11:56:18,351 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-07-01 11:56:18,352 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 11:56:18,352 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-07-01 11:57:01,191 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 11:57:01,191 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-07-01 11:57:01,192 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 11:57:01,192 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-07-01 11:57:03,382 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 11:57:03,382 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-07-01 11:57:03,383 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 11:57:03,383 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-07-01 11:57:07,726 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 11:57:07,726 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-07-01 11:57:07,727 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 11:57:07,727 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-07-01 11:58:04,500 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 11:58:04,501 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-07-01 11:58:04,501 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 11:58:04,501 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-07-01 11:58:33,501 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 11:58:33,501 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-07-01 11:58:33,502 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 11:58:33,502 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-07-01 11:58:40,891 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 11:58:40,892 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-07-01 11:58:40,893 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 11:58:40,893 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-07-01 11:59:23,827 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 11:59:23,828 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-07-01 11:59:23,828 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 11:59:23,828 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-07-01 11:59:35,145 [main] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache file is not out-of-date. No remote download required.
+2017-07-01 12:01:05,070 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 12:01:05,070 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-07-01 12:01:05,071 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 12:01:05,071 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-07-01 12:02:52,753 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 12:02:52,753 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-07-01 12:02:52,753 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 12:02:52,753 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-07-01 12:03:00,111 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 12:03:00,111 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-07-01 12:03:00,112 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 12:03:00,112 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-07-01 12:06:14,457 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 12:06:14,457 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-07-01 12:06:14,458 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 12:06:14,458 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-07-01 12:06:43,184 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 12:06:43,184 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-07-01 12:06:43,185 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 12:06:43,185 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-07-01 12:06:56,083 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 12:06:56,084 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-07-01 12:06:56,085 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 12:06:56,085 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-07-01 12:13:17,518 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 12:13:17,518 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-07-01 12:13:17,519 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 12:13:17,519 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-07-01 12:13:20,663 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 12:13:20,663 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-07-01 12:13:20,664 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 12:13:20,664 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-07-01 12:13:23,742 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 12:13:23,743 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-07-01 12:13:23,745 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 12:13:23,745 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-07-01 12:14:54,365 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 12:14:54,365 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-07-01 12:14:54,366 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 12:14:54,366 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-07-01 12:15:04,775 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 12:15:04,775 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-07-01 12:15:04,777 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 12:15:04,778 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-07-01 12:15:11,656 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 12:15:11,657 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-07-01 12:15:11,658 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 12:15:11,658 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-07-01 12:17:57,830 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 12:17:57,830 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/MetanomeTestRunner/src/main/resources
+2017-07-01 12:17:57,831 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 12:17:57,831 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/MetanomeTestRunner/src/test/resources
+2017-07-01 12:21:26,560 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 12:21:26,560 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-07-01 12:21:26,560 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 12:21:26,560 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-07-01 12:21:26,564 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 12:21:26,564 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/MetanomeTestRunner/src/main/resources
+2017-07-01 12:21:26,565 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 12:21:26,565 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/MetanomeTestRunner/src/test/resources
+2017-07-01 12:25:57,018 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 12:25:57,018 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/MetanomeTestRunner/src/main/resources
+2017-07-01 12:25:57,020 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 12:25:57,020 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/MetanomeTestRunner/src/test/resources
+2017-07-01 12:26:20,997 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 12:26:20,997 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/MetanomeTestRunner/src/main/resources
+2017-07-01 12:26:20,997 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 12:26:20,998 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/MetanomeTestRunner/src/test/resources
+2017-07-01 12:28:51,843 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 12:28:51,844 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/MetanomeTestRunner/src/main/resources
+2017-07-01 12:28:51,845 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 12:28:51,845 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/MetanomeTestRunner/src/test/resources
+2017-07-01 12:29:43,812 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 12:29:43,813 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/MetanomeTestRunner/src/main/resources
+2017-07-01 12:29:43,815 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 12:29:43,815 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/MetanomeTestRunner/src/test/resources
+2017-07-01 12:29:49,900 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 12:29:49,900 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/MetanomeTestRunner/src/main/resources
+2017-07-01 12:29:49,901 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 12:29:49,901 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/MetanomeTestRunner/src/test/resources
+2017-07-01 12:31:01,965 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 12:31:01,966 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/MetanomeTestRunner/src/main/resources
+2017-07-01 12:31:01,966 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 12:31:01,966 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/MetanomeTestRunner/src/test/resources
+2017-07-01 12:31:50,930 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 12:31:50,930 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/MetanomeTestRunner/src/main/resources
+2017-07-01 12:31:50,933 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 12:31:50,933 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/MetanomeTestRunner/src/test/resources
+2017-07-01 12:32:13,816 [Worker-37] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://oss.sonatype.org/content/repositories/snapshots/de/metanome/backend/1.1-SNAPSHOT/backend-1.1-20170424.100859-69-sources.jar
+2017-07-01 12:32:14,402 [Worker-37] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://oss.sonatype.org/content/repositories/snapshots/de/metanome/backend/1.1-SNAPSHOT/backend-1.1-20170424.100859-69-sources.jar
+2017-07-01 12:32:14,709 [Worker-37] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for de.metanome:backend:1.1-SNAPSHOT
+2017-07-01 12:32:15,243 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 12:32:15,244 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/MetanomeTestRunner/src/main/resources
+2017-07-01 12:32:15,246 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 12:32:15,247 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/MetanomeTestRunner/src/test/resources
+2017-07-01 12:33:50,477 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 12:33:50,478 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/MetanomeTestRunner/src/main/resources
+2017-07-01 12:33:50,480 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 12:33:50,481 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/MetanomeTestRunner/src/test/resources
+2017-07-01 12:35:48,185 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 12:35:48,185 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-07-01 12:35:48,188 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 12:35:48,188 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-07-01 12:35:52,709 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 12:35:52,710 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-07-01 12:35:52,713 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 12:35:52,714 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-07-01 12:36:50,955 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 12:36:50,956 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-07-01 12:36:50,958 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 12:36:50,958 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-07-01 12:49:22,239 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 12:49:22,240 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-07-01 12:49:22,241 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 12:49:22,241 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-07-01 12:58:28,302 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 12:58:28,303 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-07-01 12:58:28,306 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 12:58:28,306 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-07-01 13:00:12,190 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 13:00:12,190 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-07-01 13:00:12,191 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 13:00:12,191 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources
+2017-07-01 13:00:53,731 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 13:00:53,731 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/main/resources
+2017-07-01 13:00:53,732 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-01 13:00:53,733 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Tim/Projekte/UCC/workspace/INDDetector/src/test/resources

@@ -7,7 +7,11 @@ public class Main {
 
 	public static void main(String[] args) {
 		Config conf = Config.create(args);
-		MetanomeMock.execute(conf);
+		String[] arg = new String[2];
+		arg[0] = "INDDETECTOR";
+		arg[1] = "ASTRONOMICAL";
+		Config conf2 = Config.create(arg);
+		MetanomeMock.execute(conf, conf2);
 	}
 
 }

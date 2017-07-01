@@ -33,7 +33,7 @@ public class FDDetector extends FDDetectorAlgorithm 				// Separating the algori
 	}
 
 	public String getDescription() {
-		return "TODO."; // A string briefly describing what this algorithm does
+		return "Tane like fd detection."; // A string briefly describing what this algorithm does
 	}
 	
 	public ArrayList<ConfigurationRequirement<?>> getConfigurationRequirements() { // Tells Metanome which and how many parameters the algorithm needs
